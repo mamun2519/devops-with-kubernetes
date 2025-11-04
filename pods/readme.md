@@ -45,3 +45,15 @@ A Pod contains:
 - Shared Network (same IP, port space)
 - Shared Storage (volume)
 - Metadata (labels, name, namespace)
+
+# ⚙️ Kubernetes Pod Commands — Complete Guide
+
+---
+
+## 🧩 1️⃣ Pod Creation Commands
+
+### ✅ Create a Pod (direct command)
+
+```bash
+kubectl run my-nginx --image=nginx --port=80
+```
