@@ -56,8 +56,6 @@ spec:
             - containerPort: 80
 ```
 
----
-
 ## 🔍 Explanation
 
 | Field           | Meaning                                                    |
@@ -66,8 +64,6 @@ spec:
 | **selector**    | Defines which Pods the ReplicaSet will manage              |
 | **template**    | Defines the Pod structure (metadata + spec)                |
 | **containers**  | The actual containers (e.g., nginx) to run inside each Pod |
-
----
 
 ## 🧪 Commands to Apply and Verify
 
