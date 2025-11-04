@@ -57,3 +57,19 @@ A Pod contains:
 ```bash
 kubectl run my-nginx --image=nginx --port=80
 ```
+
+### 🧾 Create a Pod from YAML
+
+```bash
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-nginx
+spec:
+  containers:
+    - name: nginx-container
+      image: nginx
+      ports:
+        - containerPort: 80
+
+```
