@@ -45,10 +45,3 @@ So, Kubernetes says:
 ---
 
 ## 🧩 3️⃣ Pod Structure (Internally)
-
-A Pod contains:
-
-- One or more Containers
-- Shared Network (same IP, port space)
-- Shared Storage (volume)
-- Metadata (labels, name, namespace)
