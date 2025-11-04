@@ -116,11 +116,6 @@ kubectl delete -f replicaset.yaml
 
 ---
 
-## 🚀 Next Lesson Preview
-
-👉 **Part 2: Deployment — Auto Restart, Rolling Updates & Scaling**
-You’ll learn how **Deployment** manages ReplicaSets automatically and handles **updates**, **rollbacks**, and **zero-downtime deployments**.
-
 ---
 
 👨‍💻 **Author:** Juboraj Islam Mamun
