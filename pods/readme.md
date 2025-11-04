@@ -14,18 +14,3 @@ That means — whenever you run an app in Kubernetes, it runs **inside a Pod**.
 A Pod can contain **one or more containers**.
 
 ---
-
-## 📦 Real-life Example (Restaurant Analogy 🍽️)
-
-Imagine you ordered a **lunch box** 🍱
-
-Inside it, you have rice, lentils, curry, and salad —  
-everything is served together.
-
-Similarly, a **Pod** in Kubernetes may contain:
-
-- One or more containers (e.g., backend + logger)
-- They can communicate locally with each other
-- All live inside the same “lunch box” (Pod)
-
----
