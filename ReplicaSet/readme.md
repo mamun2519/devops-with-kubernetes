@@ -1,4 +1,3 @@
-````markdown
 # 🧩 Part 1: What is a ReplicaSet in Kubernetes?
 
 ## 🍔 Real-life Analogy (Burger Shop Example)
@@ -56,6 +55,7 @@ spec:
           ports:
             - containerPort: 80
 ```
+
 ````
 
 ---
@@ -117,3 +117,4 @@ kubectl delete -f replicaset.yaml
 👨‍💻 **Author:** Juboraj Islam Mamun
 📚 **Repository:** `k8s-notes-and-practice`
 🏷️ **Tags:** `#kubernetes #replicaset #devops #containers`
+````
