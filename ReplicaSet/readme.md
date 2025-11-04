@@ -97,8 +97,6 @@ kubectl describe rs nginx-replicaset
 kubectl delete -f replicaset.yaml
 ```
 
----
-
 ## 🎯 Summary
 
 | Concept               | Description                                           |
@@ -111,7 +109,3 @@ kubectl delete -f replicaset.yaml
 👨‍💻 **Author:** Juboraj Islam Mamun
 📚 **Repository:** `k8s-notes-and-practice`
 🏷️ **Tags:** `#kubernetes #replicaset #devops #containers`
-
-```
-
-```
