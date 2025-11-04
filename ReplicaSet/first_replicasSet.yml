@@ -2,3 +2,13 @@ apiVersion: apps/v1
 kind: ReplicaSet
 metadata:
   name: first-replicaset
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: first-app
+  template:
+    metadata:
+      labels:
+        app: first-app
+    spec:
