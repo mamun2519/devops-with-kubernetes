@@ -12,3 +12,8 @@ spec:
       labels:
         app: first-app
     spec:
+      containers:
+      - name: first-k8s-container
+        image: nginx:latest
+        ports:
+        - containerPort: 80
