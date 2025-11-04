@@ -114,14 +114,6 @@ kubectl delete -f replicaset.yaml
 | **Real-life analogy** | Multiple cooks to keep the shop running               |
 | **Key advantage**     | Self-healing and fault-tolerant apps                  |
 
----
-
----
-
 👨‍💻 **Author:** Juboraj Islam Mamun
 📚 **Repository:** `k8s-notes-and-practice`
 🏷️ **Tags:** `#kubernetes #replicaset #devops #containers`
-
-```
-
-```
