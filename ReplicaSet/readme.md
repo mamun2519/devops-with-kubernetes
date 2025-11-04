@@ -14,8 +14,6 @@ Now, if one cook doesn’t show up — the other two keep the shop running ✅
 
 This is exactly what **ReplicaSet** does in **Kubernetes**.
 
----
-
 ## 🧠 Definition
 
 A **ReplicaSet** is a **Kubernetes controller**  
