@@ -56,8 +56,6 @@ spec:
             - containerPort: 80
 ```
 
-````
-
 ---
 
 ## 🔍 Explanation
@@ -117,4 +115,7 @@ kubectl delete -f replicaset.yaml
 👨‍💻 **Author:** Juboraj Islam Mamun
 📚 **Repository:** `k8s-notes-and-practice`
 🏷️ **Tags:** `#kubernetes #replicaset #devops #containers`
-````
+
+```
+
+```
