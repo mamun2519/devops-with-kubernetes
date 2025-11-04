@@ -38,10 +38,3 @@ But in Kubernetes, containers are **grouped inside Pods** — so that Kubernetes
 👉 Kubernetes **tracks Pods**, not containers.
 
 So, Kubernetes says:
-
-> “I need 3 Nginx Pods.”  
-> Each Pod will run one Nginx container inside.
-
----
-
-## 🧩 3️⃣ Pod Structure (Internally)
