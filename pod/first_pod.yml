@@ -1,4 +1,11 @@
 apiVersion: v1
 kind: Pod
-
+metadata:
+  name: first-pod
+spec:
+  containers:
+   - name: first-k8s-container
+     image: nginx:latest
+     ports:
+     - containerPort: 80
 
