@@ -29,12 +29,3 @@ Similarly, a **Pod** in Kubernetes may contain:
 - All live inside the same “lunch box” (Pod)
 
 ---
-
-## ⚙️ 2️⃣ Why Do We Need Pods?
-
-In Docker, you run containers **individually**.  
-But in Kubernetes, containers are **grouped inside Pods** — so that Kubernetes can easily manage them.
-
-👉 Kubernetes **tracks Pods**, not containers.
-
-So, Kubernetes says:
