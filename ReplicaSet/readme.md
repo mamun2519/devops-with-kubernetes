@@ -1,8 +1,6 @@
 ````markdown
 # 🧩 Part 1: What is a ReplicaSet in Kubernetes?
 
----
-
 ## 🍔 Real-life Analogy (Burger Shop Example)
 
 Imagine you run a **Burger Shop** 🍔  
