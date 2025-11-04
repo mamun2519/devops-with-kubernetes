@@ -19,8 +19,6 @@ This is exactly what **ReplicaSet** does in **Kubernetes**.
 A **ReplicaSet** is a **Kubernetes controller**  
 that ensures a specified number of **Pods** are **always running** in the cluster.
 
----
-
 ## 🔹 Example Scenario
 
 Let’s say you tell Kubernetes:
