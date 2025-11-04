@@ -129,7 +129,4 @@ You’ll learn how **Deployment** manages ReplicaSets automatically and handles 
 
 ```
 
----
-
-Would you like me to continue and make the **next README for “Deployment (Part 2)”** in the same format — with examples, YAML, and commands?
 ```
