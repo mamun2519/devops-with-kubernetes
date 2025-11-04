@@ -73,3 +73,5 @@ spec:
         - containerPort: 80
 
 ```
+
+### run the yml file => kubectl apply -f pod.yaml
