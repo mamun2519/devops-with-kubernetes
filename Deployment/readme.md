@@ -85,14 +85,10 @@ spec:
 | **Scaling**          | Increase or decrease running Pods        |
 | **Controller Chain** | Deployment → ReplicaSet → Pod            |
 
----
-
 ## 🚀 Next Lesson Preview
 
 👉 **Part 3: Scaling and Rolling Updates (Deep Dive)**
 You’ll learn how to scale Pods dynamically and monitor **rolling updates** in real time.
-
----
 
 👨‍💻 **Author:** Juboraj Islam Mamun
 📚 **Repository:** `k8s-notes-and-practice`
