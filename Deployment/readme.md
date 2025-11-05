@@ -1,5 +1,3 @@
-Here’s your **English + professional Markdown version** of the **Deployment lesson**, formatted beautifully for your Kubernetes learning repo (`k8s-notes-and-practice`).
-
 ---
 
 ````markdown
@@ -66,6 +64,7 @@ spec:
           ports:
             - containerPort: 80
 ```
+
 ````
 
 ---
@@ -124,3 +123,4 @@ You’ll learn how to scale Pods dynamically and monitor **rolling updates** in 
 
 Would you like me to create the **next lesson (Part 3: Scaling & Rolling Updates)** in the same Markdown format — with YAML examples and real-life explanation?
 ```
+````
