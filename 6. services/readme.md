@@ -30,8 +30,6 @@ That means **Pod IPs are not fixed** ❌
 So we **cannot use Pod IPs directly** to access applications.
 And that’s where **Kubernetes Service** comes in 💡
 
----
-
 ## 🚀 What is a Service?
 
 > A **Service** in Kubernetes provides a stable networking endpoint
