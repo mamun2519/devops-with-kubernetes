@@ -11,8 +11,6 @@ kubectl rollout undo deployment/nginx-deployment
 
 Kubernetes will **automatically roll back** your deployment to the **last working version** ⚙️
 
----
-
 ### 🔹 Bonus Commands
 
 | Task                             | Command                                                            |
