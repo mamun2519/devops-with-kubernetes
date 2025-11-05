@@ -49,8 +49,6 @@ There are mainly **3 types** of Kubernetes Services:
 | **NodePort**     | External access via node IP + port    | External access        |
 | **LoadBalancer** | Creates a cloud load balancer         | Public Internet access |
 
----
-
 ## 🧩 Part 1: ClusterIP (Default)
 
 Imagine your 3 Nginx pods need to be accessed by another pod
