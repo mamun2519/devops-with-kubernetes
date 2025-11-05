@@ -12,8 +12,6 @@ your shop will be **closed for a while** ❌ —
 
 In a **production server**, downtime is a big problem!
 
----
-
 ### 💡 Solution — Rolling Update
 
 **Kubernetes Deployment** handles this smartly.
