@@ -66,8 +66,6 @@ spec:
 | ♻️ Update Image Version    | `kubectl set image deployment/nginx-deployment nginx=nginx:1.26` |
 | ⏪ Rollback Deployment     | `kubectl rollout undo deployment/nginx-deployment`               |
 
----
-
 ## ⚙️ Real-life Analogy Summary
 
 | Concept                           | Burger Shop Analogy            | Kubernetes Concept              |
