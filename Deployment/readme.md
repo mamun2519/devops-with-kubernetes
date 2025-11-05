@@ -93,18 +93,3 @@ You’ll learn how to scale Pods dynamically and monitor **rolling updates** in 
 👨‍💻 **Author:** Juboraj Islam Mamun
 📚 **Repository:** `k8s-notes-and-practice`
 🏷️ **Tags:** `#kubernetes #deployment #replicaset #devops #containers`
-
-```
-
----
-
-Would you like me to create the **next lesson (Part 3: Scaling & Rolling Updates)** in the same Markdown format — with YAML examples and real-life explanation?
-```
-
-```
-
-```
-
-```
-
-```
