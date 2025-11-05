@@ -88,8 +88,6 @@ nginx-clusterip    ClusterIP   10.100.15.2    80/TCP    10s
 
 🔒 This IP is **accessible only inside** the cluster.
 
----
-
 ## 🧩 Part 2: NodePort
 
 Now suppose you want to access your pods from outside —
