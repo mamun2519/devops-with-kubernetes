@@ -1,7 +1,3 @@
-Here’s your **English version of Part 3: Rollback**, written clearly, naturally, and ready to include in your README.md 👇
-
----
-
 ## 🔁 Part 3: Rollback (If the new version has issues)
 
 Imagine your new **nginx version** has a **bug** 🐞
