@@ -32,8 +32,6 @@ so that your service **never stops** ✅
 
 🟢 **Result:** Zero downtime update 🚀
 
----
-
 ## 🧩 Part 2: Rolling Update — Practical Example
 
 Let’s say your **deployment.yaml** file looks like this:
