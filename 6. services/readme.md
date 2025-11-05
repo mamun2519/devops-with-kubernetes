@@ -56,8 +56,6 @@ Imagine your 3 Nginx pods need to be accessed by another pod
 
 For that, you use a **ClusterIP Service**.
 
----
-
 ### Example: `clusterip-service.yaml`
 
 ```yaml
