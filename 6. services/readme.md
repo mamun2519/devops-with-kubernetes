@@ -1,7 +1,3 @@
-Here’s the complete **README.md file** for your **Lesson 8: Service in Kubernetes (ClusterIP, NodePort, LoadBalancer)** — perfectly formatted for GitHub 👇
-
----
-
 ```markdown
 # 🧩 Lesson 8: Service in Kubernetes (ClusterIP, NodePort, LoadBalancer)
 
