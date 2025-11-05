@@ -8,8 +8,6 @@ By the end of this lesson, you’ll understand —
 - How we connect to pods from outside the cluster
 - The difference between **ClusterIP**, **NodePort**, and **LoadBalancer**
 
----
-
 ## 🧠 The Problem
 
 Imagine you have **3 Nginx pods** (created via a ReplicaSet).  
