@@ -95,8 +95,6 @@ via browser or Postman.
 
 For that, use **NodePort Service**.
 
----
-
 ### Example: `nodeport-service.yaml`
 
 ```yaml
