@@ -39,8 +39,6 @@ So instead of connecting to changing Pod IPs,
 you connect to a fixed **Service name**,
 and the service automatically routes traffic to the correct pods ✅
 
----
-
 ## 🔹 Types of Services
 
 There are mainly **3 types** of Kubernetes Services:
