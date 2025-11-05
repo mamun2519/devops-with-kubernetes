@@ -146,8 +146,6 @@ You want to make your app **publicly accessible** via the Internet 🌍
 
 Use **LoadBalancer Service**.
 
----
-
 ### Example: `loadbalancer-service.yaml`
 
 ```yaml
