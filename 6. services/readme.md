@@ -139,8 +139,6 @@ minikube service nginx-nodeport
 
 It will automatically open your Nginx page in the browser 🎉
 
----
-
 ## 🧩 Part 3: LoadBalancer
 
 Now imagine you’re running your cluster on a **cloud provider** (AWS, GCP, Azure).
