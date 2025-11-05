@@ -21,8 +21,6 @@ Old pods don’t die all at once —
 they are replaced **one by one** with new pods
 so that your service **never stops** ✅
 
----
-
 ### 🔹 Visualization
 
 | Time | State                                           |
