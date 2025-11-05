@@ -186,30 +186,3 @@ nginx-loadbalancer   LoadBalancer   34.120.51.203     80:30123/TCP
 | **ClusterIP**      | Internal intercom (only inside the shop)         |
 | **NodePort**       | Taking orders at the shop door                   |
 | **LoadBalancer**   | Online delivery website (accessible to everyone) |
-
-## ✅ Assignment #8
-
-1. Create an **Nginx Deployment** (3 pods)
-2. Create a **ClusterIP Service** and check using `kubectl get service`
-3. Create a **NodePort Service** and test access in browser
-   👉 If using Minikube: `minikube service nginx-nodeport`
-4. Store all YAML files under `services/` folder for future use
-
----
-
-## 💬 Next Lesson Preview
-
-👉 **Lesson 9: Kubernetes Ingress & External Access**
-Learn how to manage multiple services under one domain —
-like `example.com/api` and `example.com/frontend` 🌐
-
----
-
-✨ Keep going, Juboraj — you’re mastering Kubernetes step by step 💪
-
-```
-
----
-
-Would you like me to make the **Lesson 9: Ingress & External Access** next (in the same English + analogy-rich style)?
-```
