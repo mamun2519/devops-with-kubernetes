@@ -1,4 +1,3 @@
-````markdown
 # 🧩 Part 2: What is a Deployment in Kubernetes?
 
 ---
@@ -62,6 +61,7 @@ spec:
           ports:
             - containerPort: 80
 ```
+
 ````
 
 ---
@@ -124,3 +124,4 @@ Would you like me to create the **next lesson (Part 3: Scaling & Rolling Updates
 ```
 
 ```
+````
