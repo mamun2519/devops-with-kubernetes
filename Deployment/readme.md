@@ -54,10 +54,6 @@ spec:
             - containerPort: 80
 ```
 
-````
-
----
-
 ## 🧰 Deployment Commands
 
 | Task                       | Command                                                          |
@@ -116,4 +112,7 @@ Would you like me to create the **next lesson (Part 3: Scaling & Rolling Updates
 ```
 
 ```
-````
+
+```
+
+```
