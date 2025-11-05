@@ -19,8 +19,6 @@ which manages:
 - **Rollbacks**
 - **Scaling (replica count adjustments)**
 
----
-
 ## ⚙️ How Deployment Works
 
 A **Deployment** → automatically creates a **ReplicaSet** → which in turn manages **Pods**.
