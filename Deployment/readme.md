@@ -1,7 +1,5 @@
 # 🧩 Part 2: What is a Deployment in Kubernetes?
 
----
-
 ## 🍔 Real-life Analogy (Burger Shop Example)
 
 Your **Burger Shop** is doing great 🔥  
