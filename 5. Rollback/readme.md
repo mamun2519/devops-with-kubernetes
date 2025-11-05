@@ -30,7 +30,3 @@ Kubernetes will **automatically roll back** your deployment to the **last workin
 | Old cook slowly replaced  | Old pod is being deleted gradually | Rolling Update        |
 | New recipe has a problem  | New version has a bug              | Rollback              |
 | Returning to old recipe   | Reverting to previous version      | Rollback Command      |
-
----
-
-Would you like me to merge **Part 1, 2, and 3** together into a complete, formatted `README.md` file (with sections, emojis, and code blocks) so you can directly upload it to your repo?
