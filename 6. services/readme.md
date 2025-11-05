@@ -178,8 +178,6 @@ nginx-loadbalancer   LoadBalancer   34.120.51.203     80:30123/TCP
 
 ✅ You can now access your app from anywhere in the world!
 
----
-
 ## 🔹 Real-Life Analogy
 
 | Kubernetes Concept | Burger Shop Example 🍔                           |
