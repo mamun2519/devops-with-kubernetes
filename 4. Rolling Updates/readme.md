@@ -84,7 +84,3 @@ kubectl rollout status deployment/nginx-deployment
 
 You’ll notice — pods are being **recreated one by one**.
 Old pods **don’t die** until the new ones are **Ready** ✅
-
----
-
-Would you like me to format this into a **README.md** file (with perfect markdown formatting, emojis, and section headers) for your Kubernetes repo?
