@@ -1,4 +1,3 @@
-```markdown
 # 🧩 Lesson 8: Service in Kubernetes (ClusterIP, NodePort, LoadBalancer)
 
 ---
@@ -23,13 +22,14 @@ By the end of this lesson, you’ll understand —
 
 Imagine you have **3 Nginx pods** (created via a ReplicaSet).  
 Each pod has a unique IP address, for example:
+
 ```
 
 10.32.0.5
 10.32.0.6
 10.32.0.7
 
-````
+```
 
 Now, if a client (like a browser) wants to connect to your app —
 which IP should it use? 🤔
@@ -57,11 +57,11 @@ and the service automatically routes traffic to the correct pods ✅
 
 There are mainly **3 types** of Kubernetes Services:
 
-| Service Type     | Purpose                            | Access Level                  |
-| ---------------- | ---------------------------------- | ----------------------------- |
-| **ClusterIP**    | Internal communication inside cluster | Internal only                 |
-| **NodePort**     | External access via node IP + port | External access               |
-| **LoadBalancer** | Creates a cloud load balancer      | Public Internet access        |
+| Service Type     | Purpose                               | Access Level           |
+| ---------------- | ------------------------------------- | ---------------------- |
+| **ClusterIP**    | Internal communication inside cluster | Internal only          |
+| **NodePort**     | External access via node IP + port    | External access        |
+| **LoadBalancer** | Creates a cloud load balancer         | Public Internet access |
 
 ---
 
@@ -88,7 +88,7 @@ spec:
     - port: 80
       targetPort: 80
   type: ClusterIP
-````
+```
 
 Apply and check:
 
