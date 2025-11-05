@@ -30,8 +30,6 @@ When you **update the image version** in your Deployment:
 
 This process is called a **Rolling Update**.
 
----
-
 ## 🧾 YAML Example: `deployment.yaml`
 
 ```yaml
