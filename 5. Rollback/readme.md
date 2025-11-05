@@ -20,8 +20,6 @@ Kubernetes will **automatically roll back** your deployment to the **last workin
 | Check deployment status          | `kubectl get deployment`                                           |
 | View detailed deployment info    | `kubectl describe deployment nginx-deployment`                     |
 
----
-
 ### ⚙️ Real-Life Analogy
 
 | Concept                   | Burger Shop Example 🍔             | Kubernetes Equivalent |
