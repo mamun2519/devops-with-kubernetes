@@ -75,8 +75,6 @@ spec:
 | **Hiring new cook slowly**        | Gradual replacement            | **Deployment (Rolling Update)** |
 | **Old cook returns if new fails** | Restore old version            | **Rollback**                    |
 
----
-
 ## 🎯 Summary
 
 | Feature              | Description                              |
