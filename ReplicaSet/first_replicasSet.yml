@@ -6,11 +6,11 @@ spec:
   replicas: 3
   selector:
     matchLabels:
-      app: first-app
+      app: first-k8s-container
   template:
     metadata:
       labels:
-        app: first-app
+        app: first-k8s-container
     spec:
       containers:
       - name: first-k8s-container
