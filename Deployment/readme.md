@@ -10,8 +10,6 @@ you want the **new cooks to join gradually**, replacing the old ones **smoothly*
 
 ➡️ This “smooth update” process is handled by **Deployment** ✅
 
----
-
 ## 🧠 Definition
 
 A **Deployment** is a higher-level Kubernetes controller built **on top of ReplicaSet**,  
