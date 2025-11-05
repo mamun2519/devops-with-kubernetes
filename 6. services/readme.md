@@ -187,8 +187,6 @@ nginx-loadbalancer   LoadBalancer   34.120.51.203     80:30123/TCP
 | **NodePort**       | Taking orders at the shop door                   |
 | **LoadBalancer**   | Online delivery website (accessible to everyone) |
 
----
-
 ## ✅ Assignment #8
 
 1. Create an **Nginx Deployment** (3 pods)
