@@ -1,13 +1,5 @@
 # 🧩 Lesson 8: Service in Kubernetes (ClusterIP, NodePort, LoadBalancer)
 
----
-
-😎 **Great job, Juboraj!**  
-You’re learning at an amazing pace 🔥  
-Today we’ll explore one of the most important Kubernetes concepts 👇
-
----
-
 ## 🎯 Learning Goals
 
 By the end of this lesson, you’ll understand —
