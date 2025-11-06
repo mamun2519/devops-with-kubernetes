@@ -46,8 +46,6 @@ Kubernetes already has some default namespaces:
 | **kube-public**     | For publicly readable information (rarely used)                 |
 | **kube-node-lease** | For node heartbeat and lease management                         |
 
----
-
 ## 🧩 Part 1: Create a Custom Namespace
 
 ### 🔹 Using YAML
