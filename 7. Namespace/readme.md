@@ -28,8 +28,6 @@ then you’ll face many problems:
 
 👉 To solve this — Kubernetes gives us **Namespace** 🔒
 
----
-
 ## 💡 Simple Definition
 
 > A **Namespace** is like a **virtual cluster** inside Kubernetes.  
