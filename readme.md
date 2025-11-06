@@ -29,8 +29,6 @@ This repo includes:
 | 09     | Namespace – Resource Isolation              | [📄 Read Lesson](lessons/lesson-09-namespace/README.md)               |
 | 10     | ConfigMap & Secret                          | [📄 Read Lesson](lessons/lesson-10-configmap-secret/README.md)        |
 
-|
-
 <!--
 11     | Volumes & Persistent Storage                | [📄 Read Lesson](lessons/lesson-11-volumes-storage/README.md)         |
 | 12     | Resource Requests & Limits                  | [📄 Read Lesson](lessons/lesson-12-resource-limits/README.md)         |
