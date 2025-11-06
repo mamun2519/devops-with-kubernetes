@@ -1,13 +1,5 @@
 # 🧩 Lesson 10: Namespace – Resource Isolation in Kubernetes
 
-🔥 Awesome, Juboraj!  
-You’re now learning one of the **most important foundation concepts** in Kubernetes.  
-If you understand this well, you’ll face fewer problems in large projects later. 💪
-
-Let’s begin 👇
-
----
-
 ## 🎯 Learning Goals
 
 By the end of this lesson, you’ll know:
