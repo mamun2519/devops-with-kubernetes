@@ -9,8 +9,6 @@ By the end of this lesson, you’ll know:
 - How to create and use Namespace
 - How Namespace helps to isolate resources (with real-life example)
 
----
-
 ## 🧠 Problem: What happens if everything is in one place?
 
 Imagine your Kubernetes cluster has **3 different teams** working on it:
