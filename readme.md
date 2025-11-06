@@ -16,18 +16,18 @@ This repo includes:
 
 ## 🗂️ Lessons List
 
-| Lesson | Topic                                       | Link                                                                                     |
-| ------ | ------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 01     | Introduction to Kubernetes                  | [📄 Read Lesson](lessons/lesson-01-introduction/README.md)                               |
-| 02     | Kubernetes Architecture                     | [📄 Read Lesson](lessons/lesson-02-architecture/README.md)                               |
-| 03     | Pods in Kubernetes                          | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/1.%20pod) |
-| 04     | ReplicaSet & Deployment                     | [📄 Read Lesson](lessons/lesson-04-replicaset-deployment/README.md)                      |
-| 05     | Rolling Updates & Rollbacks                 | [📄 Read Lesson](lessons/lesson-05-rolling-update-rollback/README.md)                    |
-| 06     | Service (ClusterIP, NodePort, LoadBalancer) | [📄 Read Lesson](lessons/lesson-06-service/README.md)                                    |
-| 07     | Debugging Service and Pod                   | [📄 Read Lesson](lessons/lesson-07-debugging/README.md)                                  |
-| 08     | Ingress & External Access                   | [📄 Read Lesson](lessons/lesson-08-ingress-external-access/README.md)                    |
-| 09     | Namespace – Resource Isolation              | [📄 Read Lesson](lessons/lesson-09-namespace/README.md)                                  |
-| 10     | ConfigMap & Secret                          | [📄 Read Lesson](lessons/lesson-10-configmap-secret/README.md)                           |
+| Lesson | Topic                                       | Link                                                                                            |
+| ------ | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 01     | Introduction to Kubernetes                  | [📄 Read Lesson](lessons/lesson-01-introduction/README.md)                                      |
+| 02     | Kubernetes Architecture                     | [📄 Read Lesson](lessons/lesson-02-architecture/README.md)                                      |
+| 03     | Pods in Kubernetes                          | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/1.%20pod)        |
+| 04     | ReplicaSet & Deployment                     | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/2.%20ReplicaSet) |
+| 05     | Rolling Updates & Rollbacks                 | [📄 Read Lesson](lessons/lesson-05-rolling-update-rollback/README.md)                           |
+| 06     | Service (ClusterIP, NodePort, LoadBalancer) | [📄 Read Lesson](lessons/lesson-06-service/README.md)                                           |
+| 07     | Debugging Service and Pod                   | [📄 Read Lesson](lessons/lesson-07-debugging/README.md)                                         |
+| 08     | Ingress & External Access                   | [📄 Read Lesson](lessons/lesson-08-ingress-external-access/README.md)                           |
+| 09     | Namespace – Resource Isolation              | [📄 Read Lesson](lessons/lesson-09-namespace/README.md)                                         |
+| 10     | ConfigMap & Secret                          | [📄 Read Lesson](lessons/lesson-10-configmap-secret/README.md)                                  |
 
 <!--
 11     | Volumes & Persistent Storage                | [📄 Read Lesson](lessons/lesson-11-volumes-storage/README.md)         |

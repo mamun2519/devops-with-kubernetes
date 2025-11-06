@@ -1,4 +1,4 @@
-# 🧩 Part 1: What is a ReplicaSet in Kubernetes?
+# 🚀 Lesson 4: What is a ReplicaSet in Kubernetes?
 
 ## 🍔 Real-life Analogy (Burger Shop Example)
 
