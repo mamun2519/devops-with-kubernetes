@@ -26,10 +26,10 @@ This repo includes:
 | 06     | Rolling Updates & Rollbacks                 | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/4.%20Rolling%20Updates) |
 | 07     | Rolling Updates & Rollbacks                 | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/5.%20Rollback)          |
 | 08     | Service (ClusterIP, NodePort, LoadBalancer) | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/6.%20services)          |
-
-| 08 | Ingress & External Access | [📄 Read Lesson](lessons/lesson-08-ingress-external-access/README.md) |
-| 09 | Namespace – Resource Isolation | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/7.%20Namespace) |
-| 10 | ConfigMap & Secret | [📄 Read Lesson](lessons/lesson-10-configmap-secret/README.md) |
+| 07     | Debugging Service and Pod                   | [📄 Read Lesson](lessons/lesson-07-debugging/README.md)                                                |
+| 08     | Ingress & External Access                   | [📄 Read Lesson](lessons/lesson-08-ingress-external-access/README.md)                                  |
+| 09     | Namespace – Resource Isolation              | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/7.%20Namespace)         |
+| 10     | ConfigMap & Secret                          | [📄 Read Lesson](lessons/lesson-10-configmap-secret/README.md)                                         |
 
 <!--
 11     | Volumes & Persistent Storage                | [📄 Read Lesson](lessons/lesson-11-volumes-storage/README.md)         |
