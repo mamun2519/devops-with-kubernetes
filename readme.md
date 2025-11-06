@@ -16,10 +16,8 @@ This repo includes:
 
 ---
 
-## 🗂️ Lessons List
-
 | Lesson | Topic                                       | Link                                                                  |
-| ------ | ------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------- |
+| ------ | ------------------------------------------- | --------------------------------------------------------------------- |
 | 01     | Introduction to Kubernetes                  | [📄 Read Lesson](lessons/lesson-01-introduction/README.md)            |
 | 02     | Kubernetes Architecture                     | [📄 Read Lesson](lessons/lesson-02-architecture/README.md)            |
 | 03     | Pods in Kubernetes                          | [📄 Read Lesson](lessons/lesson-03-pods/README.md)                    |
@@ -29,7 +27,7 @@ This repo includes:
 | 07     | Debugging Service and Pod                   | [📄 Read Lesson](lessons/lesson-07-debugging/README.md)               |
 | 08     | Ingress & External Access                   | [📄 Read Lesson](lessons/lesson-08-ingress-external-access/README.md) |
 | 09     | Namespace – Resource Isolation              | [📄 Read Lesson](lessons/lesson-09-namespace/README.md)               |
-| <!--   | 10                                          | ConfigMap & Secret                                                    | [📄 Read Lesson](lessons/lesson-10-configmap-secret/README.md) |
+| 10     | ConfigMap & Secret                          | [📄 Read Lesson](lessons/lesson-10-configmap-secret/README.md)        |
 | 11     | Volumes & Persistent Storage                | [📄 Read Lesson](lessons/lesson-11-volumes-storage/README.md)         |
 | 12     | Resource Requests & Limits                  | [📄 Read Lesson](lessons/lesson-12-resource-limits/README.md)         |
 | 13     | Health Checks (Liveness & Readiness Probe)  | [📄 Read Lesson](lessons/lesson-13-health-checks/README.md)           |
@@ -39,7 +37,7 @@ This repo includes:
 | 17     | Node Affinity & Pod Affinity                | [📄 Read Lesson](lessons/lesson-17-affinity/README.md)                |
 | 18     | RBAC (Role-Based Access Control)            | [📄 Read Lesson](lessons/lesson-18-rbac/README.md)                    |
 | 19     | Helm Basics                                 | [📄 Read Lesson](lessons/lesson-19-helm/README.md)                    |
-| 20     | Monitoring (Prometheus & Grafana)           | [📄 Read Lesson](lessons/lesson-20-monitoring/README.md)              | -->                                                            |
+| 20     | Monitoring (Prometheus & Grafana)           | [📄 Read Lesson](lessons/lesson-20-monitoring/README.md)              |
 
 ---
 
