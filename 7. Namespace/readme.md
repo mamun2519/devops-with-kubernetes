@@ -132,8 +132,6 @@ kubectl get pods -n dev-team
 | View services in a namespace | `kubectl get svc -n dev-team`                               |
 | Set default namespace        | `kubectl config set-context --current --namespace=dev-team` |
 
----
-
 ## 💬 Real-Life Example
 
 Imagine your company has **three environments**:
