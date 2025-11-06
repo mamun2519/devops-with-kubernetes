@@ -17,8 +17,8 @@ This repo includes:
 ---
 
 | Lesson | Topic                                       | Link                                                                  |
-| ------ | ------------------------------------------- | --------------------------------------------------------------------- |
-| 01     | Introduction to Kubernetes                  | [📄 Read Lesson](lessons/lesson-01-introduction/README.md)            |
+| ------ | ------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
+| <!--   | 01                                          | Introduction to Kubernetes                                            | [📄 Read Lesson](lessons/lesson-01-introduction/README.md) | --> |
 | 02     | Kubernetes Architecture                     | [📄 Read Lesson](lessons/lesson-02-architecture/README.md)            |
 | 03     | Pods in Kubernetes                          | [📄 Read Lesson](lessons/lesson-03-pods/README.md)                    |
 | 04     | ReplicaSet & Deployment                     | [📄 Read Lesson](lessons/lesson-04-replicaset-deployment/README.md)   |
