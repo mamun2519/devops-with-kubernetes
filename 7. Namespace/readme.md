@@ -178,8 +178,6 @@ This means:
 
 This keeps resources controlled and fair between teams ⚙️
 
----
-
 ## ✅ Assignment #10
 
 1️⃣ Create two namespaces: `dev-team` and `staging-team`
