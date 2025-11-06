@@ -57,8 +57,6 @@ metadata:
   name: dev-team
 ```
 
-````
-
 Apply it:
 
 ```bash
@@ -221,4 +219,7 @@ Would you like me to start **Lesson 11: ConfigMap & Secret** now?
 Would you like me to keep this **simple-English Markdown style** for all upcoming lessons (like ConfigMap, Secret, and PV/PVC)?
 That way your repo will look clean, beginner-friendly, and consistent.
 ```
-````
+
+```
+
+```
