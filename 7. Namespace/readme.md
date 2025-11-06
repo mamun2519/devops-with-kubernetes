@@ -84,8 +84,6 @@ kube-system       Active   2d
 dev-team          Active   10s
 ```
 
----
-
 ## 🧩 Part 2: Create Deployment inside a Namespace
 
 Let’s deploy Nginx inside the **dev-team** namespace.
