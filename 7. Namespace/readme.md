@@ -148,8 +148,6 @@ Using separate namespaces means:
 - Resource usage and access control are easier to manage 🔐
 - Monitoring and debugging become simpler ⚙️
 
----
-
 ## ⚙️ Bonus Concept: Resource Quota & LimitRange
 
 Another big advantage of namespaces —
