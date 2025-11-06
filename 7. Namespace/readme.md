@@ -35,8 +35,6 @@ then you’ll face many problems:
 
 Each Namespace works like a separate space for different teams or environments.
 
----
-
 ## 🏗️ Default Namespaces in Kubernetes
 
 Kubernetes already has some default namespaces:
