@@ -1,4 +1,4 @@
-# 🧩 Part 2: What is a Deployment in Kubernetes?
+# 🚀 Lesson 5: What is a Deployment in Kubernetes?
 
 ## 🍔 Real-life Analogy (Burger Shop Example)
 

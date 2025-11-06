@@ -21,7 +21,8 @@ This repo includes:
 | 01     | Introduction to Kubernetes                  | [📄 Read Lesson](lessons/lesson-01-introduction/README.md)                                      |
 | 02     | Kubernetes Architecture                     | [📄 Read Lesson](lessons/lesson-02-architecture/README.md)                                      |
 | 03     | Pods in Kubernetes                          | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/1.%20pod)        |
-| 04     | ReplicaSet & Deployment                     | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/2.%20ReplicaSet) |
+| 04     | ReplicaSet                                  | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/2.%20ReplicaSet) |
+| 05     | Deployment                                  | [📄 Read Lesson](https://github.com/mamun2519/devops-with-kubernetes/tree/main/3.%20Deployment) |
 | 05     | Rolling Updates & Rollbacks                 | [📄 Read Lesson](lessons/lesson-05-rolling-update-rollback/README.md)                           |
 | 06     | Service (ClusterIP, NodePort, LoadBalancer) | [📄 Read Lesson](lessons/lesson-06-service/README.md)                                           |
 | 07     | Debugging Service and Pod                   | [📄 Read Lesson](lessons/lesson-07-debugging/README.md)                                         |
