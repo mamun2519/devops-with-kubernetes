@@ -14,7 +14,7 @@ This repo includes:
 - Real-life examples and notes in simple English + Bangla mix
 - Commands and explanations for each topic
 
----
+## 🗂️ Lessons List
 
 | Lesson | Topic                                       | Link                                                                  |
 | ------ | ------------------------------------------- | --------------------------------------------------------------------- |
