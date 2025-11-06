@@ -123,8 +123,6 @@ kubectl get pods -n dev-team
 
 👉 You’ll see pods are created only inside that specific namespace.
 
----
-
 ## 🧩 Part 3: Check Resources by Namespace
 
 | Task                         | Command                                                     |
