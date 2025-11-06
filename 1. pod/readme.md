@@ -1,4 +1,4 @@
-# 🚀 Lesson 5: Pod in Kubernetes (Simple Explanation + Real-life Example)
+# 🚀 Lesson 3: Pod in Kubernetes (Simple Explanation + Real-life Example)
 
 ## 🧠 1️⃣ What is a Pod?
 
