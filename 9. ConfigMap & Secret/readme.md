@@ -67,8 +67,6 @@ The main difference:
 - ConfigMap stores data as **plain text** (anyone can read).
 - Secret stores data in **Base64 encoded** form (a bit safer).
 
----
-
 ### 🔹 Example: Secret
 
 Let’s say your database password is `mypassword` and user is `myuser`.
