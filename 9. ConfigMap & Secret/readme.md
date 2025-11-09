@@ -1,4 +1,4 @@
-# 🧩 Lesson 11: ConfigMap & Secret — External Configuration in Kubernetes
+# 🧩 Lesson 9: ConfigMap & Secret — External Configuration in Kubernetes
 
 ---
 
