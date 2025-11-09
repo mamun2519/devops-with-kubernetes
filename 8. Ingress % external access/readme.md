@@ -186,8 +186,6 @@ http://myapp.local/api
 
 Both will work perfectly 🎉
 
----
-
 ## 💬 Real Life Example
 
 | Concept            | Real Example                         |
