@@ -1,7 +1,5 @@
 # 🧩 Lesson 8: Kubernetes Ingress & External Access
 
----
-
 ## 🎯 Goal of This Lesson
 
 After this lesson, you will understand:
