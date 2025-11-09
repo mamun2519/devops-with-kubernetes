@@ -18,5 +18,11 @@ spec:
   - host: myapp.local
     http:
       paths: 
+       - path: /api
+         pathType: Prefix
+         backend:
+           service:
+             name: backend-service
+             port: 5000
        
       
