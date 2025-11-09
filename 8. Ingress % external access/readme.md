@@ -49,8 +49,6 @@ It routes traffic to the right service based on **domain name** or **URL path**.
 | example.com/api   | backend service  | Ingress rule |
 | example.com/admin | admin service    | Ingress rule |
 
----
-
 ## 🧩 Part 1: What is an Ingress Controller?
 
 Ingress needs a **Controller** to work —
