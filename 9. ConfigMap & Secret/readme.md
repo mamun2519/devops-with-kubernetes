@@ -58,8 +58,6 @@ spec:
 
 👉 This means: all key-value pairs from ConfigMap will become environment variables inside this container.
 
----
-
 ## 🔐 2️⃣ What is a Secret?
 
 A **Secret** is almost like a ConfigMap — but used for **sensitive data** such as passwords, API keys, or tokens.
