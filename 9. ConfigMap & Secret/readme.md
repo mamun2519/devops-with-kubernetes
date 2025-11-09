@@ -130,8 +130,6 @@ You can:
 
 ✅ Result: Safe + Flexible configuration management
 
----
-
 ## 🧩 Assignment (Today’s Task)
 
 1️⃣ Create a **ConfigMap** named `web-config`
