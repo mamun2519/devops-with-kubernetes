@@ -1,4 +1,4 @@
-# 🧩 Lesson 9: Kubernetes Ingress & External Access
+# 🧩 Lesson 8: Kubernetes Ingress & External Access
 
 ---
 
