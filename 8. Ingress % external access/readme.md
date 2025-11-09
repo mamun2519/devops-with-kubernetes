@@ -9,8 +9,6 @@ After this lesson, you will understand:
 - How Ingress helps route traffic using domain names
 - A real example: multiple services under one domain
 
----
-
 ## 🧠 Problem: Limitations of NodePort / LoadBalancer
 
 In the previous lesson, we learned:
