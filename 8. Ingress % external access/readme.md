@@ -194,17 +194,6 @@ Both will work perfectly 🎉
 | Ingress Controller | The main gate of a shopping mall     |
 | Ingress Rules      | Directions to different shops inside |
 
-## ✅ Assignment #9
-
-1️⃣ Enable Ingress in Minikube
-2️⃣ Create two deployments: frontend and backend
-3️⃣ Create Ingress that sends `/` → frontend and `/api` → backend
-4️⃣ Test in browser
-
-💡 Bonus: Add `/admin` path for another service
-
----
-
 ## 🔮 Next Lesson Preview
 
 👉 **Lesson 10: ConfigMap & Secret in Kubernetes**
