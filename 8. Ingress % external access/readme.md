@@ -142,8 +142,6 @@ spec:
 - When someone visits `http://myapp.local/` → goes to **frontend-service**
 - When someone visits `http://myapp.local/api` → goes to **backend-service**
 
----
-
 ## 🧪 Local Test with Minikube
 
 1️⃣ Enable Ingress:
