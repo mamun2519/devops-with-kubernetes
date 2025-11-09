@@ -158,12 +158,3 @@ kubectl exec -it nginx-config-pod -- printenv | grep APP
 ```
 
 👉 You should see `APP_NAME` and `APP_VERSION` in the output.
-
-## 🔮 Next Lesson Preview
-
-👉 **Lesson 12: Volumes & Persistent Storage in Kubernetes** 💾
-(How to keep your data safe even when Pods are deleted)
-
----
-
-Would you like me to start **Lesson 12** now, or do you want to finish this assignment first?
