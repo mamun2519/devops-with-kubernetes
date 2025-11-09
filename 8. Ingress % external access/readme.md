@@ -66,8 +66,6 @@ If you are using **Minikube**, enable it with:
 minikube addons enable ingress
 ```
 
----
-
 ## 🧩 Part 2: Example Setup
 
 Let’s say you have two services:
