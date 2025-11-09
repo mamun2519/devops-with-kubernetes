@@ -19,8 +19,6 @@ If you hardcode file paths or environment variables directly inside your app, it
 
 You keep your code clean, and store all configurations (like environment variables, URLs, app names, etc.) in a ConfigMap.
 
----
-
 ### 🔹 Example: ConfigMap
 
 Suppose your app needs these environment variables:
