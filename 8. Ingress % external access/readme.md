@@ -137,8 +137,6 @@ spec:
                   number: 5000
 ```
 
----
-
 ## 🧠 Explanation
 
 - When someone visits `http://myapp.local/` → goes to **frontend-service**
