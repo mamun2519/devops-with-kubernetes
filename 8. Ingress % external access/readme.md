@@ -36,8 +36,6 @@ admin → 35.11.12.3
 
 That’s messy and expensive 💥
 
----
-
 ## 💡 Solution: Use Ingress
 
 👉 **Ingress** is like a smart router 🚦 in front of your cluster.
