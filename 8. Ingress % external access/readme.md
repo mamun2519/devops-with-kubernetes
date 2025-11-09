@@ -193,18 +193,3 @@ Both will work perfectly 🎉
 | LoadBalancer       | Separate shop entrances              |
 | Ingress Controller | The main gate of a shopping mall     |
 | Ingress Rules      | Directions to different shops inside |
-
-## 🔮 Next Lesson Preview
-
-👉 **Lesson 10: ConfigMap & Secret in Kubernetes**
-(Learn how to store and manage app configuration, passwords, and API keys safely)
-
----
-
-```
-
----
-
-Would you like me to generate the **folder path + file name suggestion** for this lesson (e.g. `lessons/lesson-09-ingress-external-access/README.md`)?
-That way you can paste this content directly in your repo folder.
-```
