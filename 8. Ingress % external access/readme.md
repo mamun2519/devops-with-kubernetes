@@ -41,8 +41,6 @@ That’s messy and expensive 💥
 👉 **Ingress** is like a smart router 🚦 in front of your cluster.
 It routes traffic to the right service based on **domain name** or **URL path**.
 
----
-
 ### Example Mapping
 
 | Domain or Path    | Goes To          | Type         |
