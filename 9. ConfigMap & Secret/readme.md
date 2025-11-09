@@ -1,7 +1,5 @@
 # 🧩 Lesson 9: ConfigMap & Secret — External Configuration in Kubernetes
 
----
-
 ## 🎯 Goal of This Lesson
 
 After this lesson, you will understand:
