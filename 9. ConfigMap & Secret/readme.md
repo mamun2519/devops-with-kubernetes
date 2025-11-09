@@ -1,8 +1,3 @@
-Sure Juboraj 🔥
-Here’s your **README.md** version of that lesson, written fully in **easy English** and Markdown-friendly format 👇
-
----
-
 # 🧩 Lesson 11: ConfigMap & Secret — External Configuration in Kubernetes
 
 ---
