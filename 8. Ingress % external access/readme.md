@@ -196,8 +196,6 @@ Both will work perfectly 🎉
 | Ingress Controller | The main gate of a shopping mall     |
 | Ingress Rules      | Directions to different shops inside |
 
----
-
 ## ✅ Assignment #9
 
 1️⃣ Enable Ingress in Minikube
