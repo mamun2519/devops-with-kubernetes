@@ -1,4 +1,3 @@
-```markdown
 # 🧩 Lesson 9: Kubernetes Ingress & External Access
 
 ---
@@ -30,13 +29,14 @@ You have 3 services:
 
 Then you’ll need 3 LoadBalancers and 3 public IPs 😩  
 Users would have to remember each IP like:
+
 ```
 
 frontend → 35.11.12.1
 backend → 35.11.12.2
 admin → 35.11.12.3
 
-````
+```
 
 That’s messy and expensive 💥
 
@@ -51,11 +51,11 @@ It routes traffic to the right service based on **domain name** or **URL path**.
 
 ### Example Mapping
 
-| Domain or Path     | Goes To          | Type |
-| ------------------ | ---------------- | ---- |
-| example.com        | frontend service | Ingress rule |
-| example.com/api    | backend service  | Ingress rule |
-| example.com/admin  | admin service    | Ingress rule |
+| Domain or Path    | Goes To          | Type         |
+| ----------------- | ---------------- | ------------ |
+| example.com       | frontend service | Ingress rule |
+| example.com/api   | backend service  | Ingress rule |
+| example.com/admin | admin service    | Ingress rule |
 
 ---
 
@@ -74,7 +74,7 @@ If you are using **Minikube**, enable it with:
 
 ```bash
 minikube addons enable ingress
-````
+```
 
 ---
 
