@@ -75,8 +75,6 @@ Let’s say you have two services:
 1️⃣ frontend-service (port 3000)
 2️⃣ backend-service (port 5000)
 
----
-
 ### frontend-service.yaml
 
 ```yaml
