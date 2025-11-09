@@ -10,8 +10,6 @@ After this lesson, you will understand:
 - How to use them inside a Pod
 - Which one is safer and when to use which
 
----
-
 ## 🧠 1️⃣ What is a ConfigMap?
 
 👉 Imagine you are running an Nginx server.
