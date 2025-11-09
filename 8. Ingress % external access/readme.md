@@ -107,8 +107,6 @@ spec:
   type: ClusterIP
 ```
 
----
-
 ## 🧩 Part 3: Ingress YAML Example
 
 ```yaml
