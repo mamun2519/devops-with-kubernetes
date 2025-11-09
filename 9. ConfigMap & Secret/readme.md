@@ -104,8 +104,6 @@ spec:
             name: db-secret
 ```
 
----
-
 ## 💡 3️⃣ ConfigMap vs Secret
 
 | Feature   | ConfigMap            | Secret               |
