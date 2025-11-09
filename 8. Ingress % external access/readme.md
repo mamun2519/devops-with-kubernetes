@@ -1,9 +1,3 @@
-Perfect 🔥
-Here’s your **Lesson 9: Kubernetes Ingress & External Access** in **easy English + clean README.md format**, ready to upload to your repo.
-It keeps your friendly learning style but uses simple English for better readability 👇
-
----
-
 ```markdown
 # 🧩 Lesson 9: Kubernetes Ingress & External Access
 
