@@ -1,6 +1,4 @@
--
-
-# 💾 Lesson 12: Volumes & Persistent Storage in Kubernetes
+# 💾 Lesson 10: Volumes & Persistent Storage in Kubernetes
 
 ---
 
