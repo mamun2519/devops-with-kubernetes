@@ -40,8 +40,6 @@ spec:
       restartPolicy: Never
 ```
 
----
-
 ### 🧩 Explanation
 
 | Part                   | Meaning                                                                   |
