@@ -157,8 +157,6 @@ When Pods restart, they get the same data ✅
 If you run **MongoDB ReplicaSet**, **Kafka**, or **RabbitMQ** clusters —
 you must use **StatefulSet**, because each node needs its own data and name.
 
----
-
 ## 🧩 Assignment (Your Task)
 
 1. Create a **Headless Service** named `mysql`
