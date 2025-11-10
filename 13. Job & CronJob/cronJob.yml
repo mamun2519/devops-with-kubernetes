@@ -12,4 +12,4 @@ spec:
           - name: print-date-container
             image: busybox
             command: ["sh", "-c", "echo The date is $(date)"]
-          restartPolicy: OnFailure
+          restartPolicy: OnFailure # Only restart if it fails
