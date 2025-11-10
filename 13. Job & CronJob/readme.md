@@ -48,8 +48,6 @@ spec:
 | `restartPolicy: Never` | If it fails, Kubernetes makes a new Pod, but doesn’t re-run finished ones |
 | `command`              | The command that runs once and exits                                      |
 
----
-
 ### 🧰 Check Job Status
 
 ```bash
