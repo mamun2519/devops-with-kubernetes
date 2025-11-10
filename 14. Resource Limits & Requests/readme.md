@@ -9,8 +9,6 @@ After this lesson, you will know 👇
 - How CPU and Memory are managed
 - Practical example with YAML
 
----
-
 ## 🧠 Why Do We Need This?
 
 Imagine your cluster has many Pods —
