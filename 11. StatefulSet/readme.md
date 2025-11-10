@@ -68,8 +68,6 @@ mysql-0.mysql
 mysql-1.mysql
 ```
 
----
-
 ### Step 2️⃣: Create StatefulSet
 
 ```yaml
