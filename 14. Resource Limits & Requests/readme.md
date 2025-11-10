@@ -106,8 +106,6 @@ kubectl top pod
 
 This shows **CPU and Memory usage** of Pods.
 
----
-
 ## ✅ Summary
 
 | Concept     | Meaning                    | Effect                             |
