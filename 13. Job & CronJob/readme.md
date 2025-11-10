@@ -1,7 +1,5 @@
 # 🕒 **Lesson 13: Job & CronJob — One-Time and Scheduled Tasks in Kubernetes**
 
----
-
 ## 🎯 Goal of This Lesson
 
 After this lesson, you will know 👇
