@@ -92,8 +92,6 @@ spec:
           restartPolicy: OnFailure
 ```
 
----
-
 ### 🧩 Explanation
 
 | Part                       | Meaning                                     |
