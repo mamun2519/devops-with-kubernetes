@@ -19,8 +19,6 @@ If you delete one Pod, nothing bad happens.
 ➡️ This is called a **Stateless Application**
 Examples: Nginx, Frontend apps, API servers.
 
----
-
 👉 Example 2: You run a **MySQL database**.
 If you delete the Pod and restart it, all data is gone 😭
 Because the database needs the **same name and same storage**.
