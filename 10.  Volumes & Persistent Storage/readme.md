@@ -1,7 +1,5 @@
 # 💾 Lesson 10: Volumes & Persistent Storage in Kubernetes
 
----
-
 ## 🎯 Goal of This Lesson
 
 After this lesson, you will learn:
@@ -11,8 +9,6 @@ After this lesson, you will learn:
 - Different Volume types (`emptyDir`, `hostPath`, `PersistentVolume`, `PersistentVolumeClaim`)
 - What PV (Persistent Volume) and PVC (Persistent Volume Claim) are
 - Real-life examples of data storage in Kubernetes
-
----
 
 ## 🧠 1️⃣ The Problem — Pod Data Gets Lost!
 
