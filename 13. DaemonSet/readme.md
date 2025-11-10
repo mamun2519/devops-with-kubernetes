@@ -118,8 +118,6 @@ DaemonSet is used for system-level tools that need to run on all Nodes.
 | When new Node added | No new Pod               | New Pod auto added        |
 | Example             | Nginx web app            | Node Exporter, Fluentd    |
 
----
-
 ## 🧩 Assignment (Your Task)
 
 1. Create a DaemonSet using this YAML 👇
