@@ -21,8 +21,6 @@ and the system can become slow or even crash!
 ➡️ That’s why Kubernetes has **resource control** —
 using `requests` and `limits`.
 
----
-
 ## ⚙️ What is a Resource Request?
 
 **Request** means — the **minimum resource a Pod needs to start**.
