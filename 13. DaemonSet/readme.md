@@ -109,8 +109,6 @@ DaemonSet is used for system-level tools that need to run on all Nodes.
 | **CNI plugin (Calico / Weave)** | Sets up networking                |
 | **Security agents**             | Monitor Nodes for security issues |
 
----
-
 ## 📦 6️⃣ DaemonSet vs Deployment
 
 | Feature             | Deployment               | DaemonSet                 |
