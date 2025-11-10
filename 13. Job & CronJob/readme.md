@@ -110,8 +110,6 @@ spec:
 | `0 * * * *`   | Every hour            |
 | `0 0 * * *`   | Every day at midnight |
 
----
-
 ## 🧰 4️⃣ Real-Life Examples
 
 | Use Case              | Description                   |
