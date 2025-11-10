@@ -56,8 +56,6 @@ spec:
             - containerPort: 80
 ```
 
----
-
 ### 🧩 Explanation
 
 | Part              | Meaning                                      |
