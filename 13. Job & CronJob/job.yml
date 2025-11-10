@@ -9,4 +9,5 @@ spec:
       - name: print-date-container
         image: busybox
         command: ["sh", "-c", "echo The date is $(date)"]
-      restartPolicy: Never
+      restartPolicy: Never # Do not restart completed jobs
+      
