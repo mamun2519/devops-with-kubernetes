@@ -91,8 +91,6 @@ Think of an office with 10 employees:
 
 The boss (Kubernetes Scheduler) **reserves CPU and memory** for each employee so no one uses others’ resources 😅
 
----
-
 ## 🚨 What Happens if a Pod Crosses Its Limit?
 
 - **CPU:** Kubernetes will **slow down the Pod** (throttle)
