@@ -61,8 +61,6 @@ resources:
     memory: "512Mi"
 ```
 
----
-
 ## 🔄 Full Pod Example
 
 ```yaml
