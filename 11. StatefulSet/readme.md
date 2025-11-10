@@ -117,8 +117,6 @@ spec:
 | Headless Service     | Gives DNS for each Pod               |
 | VolumeClaimTemplates | Creates a separate disk for each Pod |
 
----
-
 ## 🔧 Step 3️⃣: Check StatefulSet
 
 ```bash
