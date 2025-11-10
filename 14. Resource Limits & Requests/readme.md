@@ -115,8 +115,6 @@ This shows **CPU and Memory usage** of Pods.
 | **CPU**     | Processor power (milliCPU) | 1000m = 1 CPU core                 |
 | **Memory**  | RAM (Mi / MegaBytes)       | RAM usage control                  |
 
----
-
 ## 🧩 Assignment
 
 1️⃣ Create a Pod named `limit-test` with:
