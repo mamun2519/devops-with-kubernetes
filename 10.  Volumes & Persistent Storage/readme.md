@@ -169,7 +169,3 @@ To prevent this — attach a **PVC** to your WordPress Pod.
 
 Now all photos will be stored safely in `/mnt/data`,
 and they’ll stay even if the Pod is restarted ✅
-
-📚 **Lesson 13: Kubernetes StatefulSet — Managing Stateful Applications (like Databases)**
-
-Would you like me to start **Lesson 13** now?
