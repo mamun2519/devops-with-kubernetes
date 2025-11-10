@@ -65,8 +65,6 @@ The date is Mon Nov 3 18:20:05 UTC 2025
 
 ✅ Done! The job ran one time and finished.
 
----
-
 ## ⏰ 3️⃣ CronJob — Run Tasks on Schedule
 
 Now, imagine you want to run that same job **every few minutes or every day** —
