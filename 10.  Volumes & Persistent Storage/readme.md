@@ -21,8 +21,6 @@ Now if the Pod restarts or gets deleted —
 That’s because Kubernetes Pod file systems are **temporary (ephemeral)**.
 When the Pod dies, the data dies too.
 
----
-
 ## 💡 2️⃣ The Solution — Volumes
 
 🪄 **Volume** means a separate storage space outside the Pod where data is stored.
