@@ -128,8 +128,6 @@ spec:
       storage: 500Mi
 ```
 
----
-
 ### 🔹 Step 3: Pod Using PVC
 
 ```yaml
