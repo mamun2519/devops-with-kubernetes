@@ -10,8 +10,6 @@ After this lesson, you will understand 👇
 - Real-life examples like Prometheus Node Exporter, Fluentd, etc.
 - YAML example with explanation
 
----
-
 ## 🧠 1️⃣ The Problem — Some Pods must run on every Node!
 
 Let’s say your cluster has 3 Nodes:
