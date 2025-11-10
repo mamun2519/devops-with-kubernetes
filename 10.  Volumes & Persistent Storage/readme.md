@@ -83,8 +83,6 @@ and it will appear as `/data` inside the container.
 
 Even if the Pod is deleted, data stays on the host machine ✅
 
----
-
 ## 🏗️ 3️⃣ Persistent Volume (PV) & Persistent Volume Claim (PVC)
 
 Now imagine you need **permanent storage** —
