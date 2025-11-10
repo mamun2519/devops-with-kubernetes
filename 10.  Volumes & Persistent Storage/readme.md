@@ -170,17 +170,6 @@ To prevent this — attach a **PVC** to your WordPress Pod.
 Now all photos will be stored safely in `/mnt/data`,
 and they’ll stay even if the Pod is restarted ✅
 
-Then create a new Pod and check if `/mnt/data/test.txt` still exists.
-
----
-
-🎉 That’s it! Now you understand how **Kubernetes Persistent Storage** really works.
-
----
-
-Let’s go Juboraj 💪
-Finish this assignment and get ready for the next class —
-
 📚 **Lesson 13: Kubernetes StatefulSet — Managing Stateful Applications (like Databases)**
 
 Would you like me to start **Lesson 13** now?
