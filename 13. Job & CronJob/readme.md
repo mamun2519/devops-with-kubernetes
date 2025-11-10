@@ -10,8 +10,6 @@ After this lesson, you will know 👇
 - Real-life examples (backup, cleanup, report generator, etc.)
 - Full YAML examples with explanation
 
----
-
 ## 🧠 1️⃣ The Problem — Some tasks should run only once!
 
 Let’s say you have a script that **cleans a database** or **takes a backup**.
