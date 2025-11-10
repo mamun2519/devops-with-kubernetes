@@ -36,8 +36,6 @@ That means:
 - Each Pod has its own storage (PVC)
 - Even if Pod is deleted, data stays safe
 
----
-
 ## 🔹 Example — MySQL StatefulSet
 
 Let’s create it step by step 👇
