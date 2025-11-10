@@ -26,8 +26,6 @@ You can’t be sure that **each Node has one Pod**.
 
 👉 That’s why we use **DaemonSet**!
 
----
-
 ## 💡 2️⃣ What is a DaemonSet?
 
 🧩 **DaemonSet** makes sure that **every Node runs one copy** of a specific Pod.
