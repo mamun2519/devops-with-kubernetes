@@ -159,8 +159,6 @@ will be saved in `/mnt/data`, and it will **stay** even after the Pod is deleted
 | Created by | Cluster Admin          | Developer                     |
 | Scope      | Cluster-wide           | Namespace specific            |
 
----
-
 ## 🧰 5️⃣ Real-Life Example
 
 Imagine you’re running a **WordPress app** on Kubernetes.
