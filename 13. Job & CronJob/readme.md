@@ -1,10 +1,4 @@
-Awesome work Juboraj! 💪
-You’re learning Kubernetes step by step — and today’s topic is very useful for **automation, background tasks, data backup, and scheduled jobs!**
-Let’s start 🚀
-
----
-
-# 🕒 **Lesson 15: Job & CronJob — One-Time and Scheduled Tasks in Kubernetes**
+# 🕒 **Lesson 13: Job & CronJob — One-Time and Scheduled Tasks in Kubernetes**
 
 ---
 
