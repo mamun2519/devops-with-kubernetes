@@ -1,8 +1,3 @@
-Perfect Juboraj! 🙌
-Here’s your **README.md** version in **easy English** — everything written in simple and clear words so it’s beginner-friendly and GitHub-ready.
-
----
-
 # ⚙️ **Lesson 14: DaemonSet — Run One Pod per Node**
 
 ---
