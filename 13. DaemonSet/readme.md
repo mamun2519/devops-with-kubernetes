@@ -157,8 +157,6 @@ DaemonSet is used for system-level tools that need to run on all Nodes.
 
 4. If you add a new Node — a new Pod will start automatically there!
 
----
-
 ## 💬 Real-Life Analogy (Easy Example)
 
 Think about a **factory** 🏭
