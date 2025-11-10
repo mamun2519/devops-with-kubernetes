@@ -23,8 +23,6 @@ You don’t want it to keep running forever like a Deployment.
 🧩 A **Job** is a Kubernetes resource that runs one or more Pods **until the task is complete**.
 When the task finishes, the Pod stops — and Kubernetes won’t restart it.
 
----
-
 ### 🔹 Example: One-time Job
 
 ```yaml
