@@ -143,8 +143,6 @@ data-mysql-1     Bound
 👉 Even if you delete Pods, data stays safe.
 When Pods restart, they get the same data ✅
 
----
-
 ## 🔁 StatefulSet vs Deployment
 
 | Feature            | Deployment         | StatefulSet                               |
