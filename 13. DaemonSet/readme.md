@@ -173,8 +173,6 @@ Today you learned:
 - YAML structure
 - Real-world usage (monitoring, logging, etc.)
 
----
-
 🔥 Next Lesson:
 **Lesson 15 — Job & CronJob: One-Time and Scheduled Tasks in Kubernetes**
 
