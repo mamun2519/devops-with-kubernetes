@@ -1,7 +1,3 @@
-Sure! 😊 Here’s your **README.md** version in **easy English** — everything simple and clear so you can use it directly:
-
----
-
 # 🧱 **Lesson 13: Kubernetes StatefulSet — Managing Stateful Apps (like Databases)**
 
 ---
