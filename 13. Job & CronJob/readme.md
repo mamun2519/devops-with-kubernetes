@@ -72,8 +72,6 @@ for example, every morning or every 2 minutes.
 
 You can do that using a **CronJob** in Kubernetes.
 
----
-
 ### 🔹 Example: CronJob
 
 ```yaml
