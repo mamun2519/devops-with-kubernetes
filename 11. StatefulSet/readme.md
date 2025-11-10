@@ -107,8 +107,6 @@ spec:
             storage: 1Gi
 ```
 
----
-
 ### 📘 What’s Happening Here
 
 | Item                 | Explanation                          |
