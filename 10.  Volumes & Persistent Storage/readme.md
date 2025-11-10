@@ -55,8 +55,6 @@ spec:
 👉 Here, `emptyDir` is mounted to `/usr/share/nginx/html`.
 Any files written there will stay only while the Pod is running.
 
----
-
 ## 🔹 Example 2: `hostPath` Volume
 
 This type mounts a **folder from the host machine** into the Pod.
