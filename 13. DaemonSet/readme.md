@@ -172,8 +172,3 @@ Today you learned:
 - When and why to use it
 - YAML structure
 - Real-world usage (monitoring, logging, etc.)
-
-🔥 Next Lesson:
-**Lesson 15 — Job & CronJob: One-Time and Scheduled Tasks in Kubernetes**
-
-Do you want me to start **Lesson 15** now?
