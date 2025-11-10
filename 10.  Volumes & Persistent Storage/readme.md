@@ -1,7 +1,4 @@
-Sure Juboraj 🔥
-Here’s your **README.md** version in **simple English** — clean, clear, and beginner-friendly 👇
-
----
+-
 
 # 💾 Lesson 12: Volumes & Persistent Storage in Kubernetes
 
