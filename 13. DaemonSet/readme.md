@@ -164,8 +164,6 @@ You want **one security guard (Pod)** for each **machine (Node)**.
 If a new machine is added, a new guard goes there automatically.
 That system is like a **DaemonSet** 👮‍♂️
 
----
-
 ## ✅ Summary
 
 Today you learned:
