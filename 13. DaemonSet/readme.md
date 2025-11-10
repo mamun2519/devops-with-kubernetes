@@ -97,8 +97,6 @@ nginx-daemon-qwe3    node3
 👉 See?
 One Pod is running on each Node ✅
 
----
-
 ## 🧰 5️⃣ Real-Life Examples of DaemonSet
 
 DaemonSet is used for system-level tools that need to run on all Nodes.
