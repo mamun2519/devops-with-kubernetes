@@ -96,8 +96,6 @@ The boss (Kubernetes Scheduler) **reserves CPU and memory** for each employee so
 - **CPU:** Kubernetes will **slow down the Pod** (throttle)
 - **Memory:** Kubernetes will **kill the Pod** (`OOMKilled`)
 
----
-
 ## 📊 Check Resource Usage
 
 You can use **Kubernetes Dashboard** or:
