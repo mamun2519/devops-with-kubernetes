@@ -1,7 +1,5 @@
 # 🧱 **Lesson 11: Kubernetes StatefulSet — Managing Stateful Apps (like Databases)**
 
----
-
 ## 🎯 Goal of This Lesson
 
 After this lesson, you will understand 👇
