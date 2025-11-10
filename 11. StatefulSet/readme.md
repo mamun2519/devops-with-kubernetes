@@ -10,8 +10,6 @@ After this lesson, you will understand 👇
 - What is a **Headless Service** and why it is needed
 - Example: MySQL StatefulSet with YAML
 
----
-
 ## 🧠 1️⃣ Stateless vs Stateful — Easy Example
 
 👉 Example 1: You run 3 Pods for a web server (like **nginx**).
