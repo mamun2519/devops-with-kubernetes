@@ -44,8 +44,6 @@ resources:
 - `200m` = 0.2 CPU (20% of 1 CPU core)
 - `256Mi` = 256 MB RAM
 
----
-
 ## ⚡ What is a Resource Limit?
 
 **Limit** means — the **maximum resource a Pod can use**.
