@@ -40,8 +40,6 @@ That means:
 
 Let’s create it step by step 👇
 
----
-
 ### Step 1️⃣: Create Headless Service
 
 Headless Service = service with **no load balancer**,
