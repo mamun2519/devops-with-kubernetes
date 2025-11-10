@@ -91,8 +91,6 @@ something that stays even after Pods are deleted and can be reused by other Pods
 Kubernetes gives us two resources for that:
 **Persistent Volume (PV)** and **Persistent Volume Claim (PVC)**
 
----
-
 ### 🔹 Step 1: Persistent Volume (PV)
 
 PV is a **cluster-level resource** — storage managed by Kubernetes.
