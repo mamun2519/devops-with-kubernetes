@@ -151,8 +151,6 @@ spec:
 👉 Now, whatever the Pod writes to `/usr/share/nginx/html`
 will be saved in `/mnt/data`, and it will **stay** even after the Pod is deleted.
 
----
-
 ## 📦 4️⃣ PV vs PVC (In Simple Words)
 
 | Concept    | Persistent Volume (PV) | Persistent Volume Claim (PVC) |
