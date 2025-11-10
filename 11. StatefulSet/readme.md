@@ -1,4 +1,4 @@
-# 🧱 **Lesson 13: Kubernetes StatefulSet — Managing Stateful Apps (like Databases)**
+# 🧱 **Lesson 11: Kubernetes StatefulSet — Managing Stateful Apps (like Databases)**
 
 ---
 
