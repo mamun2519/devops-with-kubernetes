@@ -25,8 +25,6 @@ Because the database needs the **same name and same storage**.
 
 ➡️ This is a **Stateful Application**.
 
----
-
 ## 💡 2️⃣ What is a StatefulSet?
 
 🧩 **StatefulSet** is like a Deployment,
