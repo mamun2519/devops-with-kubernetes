@@ -152,8 +152,6 @@ When Pods restart, they get the same data ✅
 | Data after restart | Lost               | Saved                                     |
 | Use case           | Web apps, APIs     | Databases, Caches (MySQL, MongoDB, Redis) |
 
----
-
 ## 🧰 Real-Life Example
 
 If you run **MongoDB ReplicaSet**, **Kafka**, or **RabbitMQ** clusters —
