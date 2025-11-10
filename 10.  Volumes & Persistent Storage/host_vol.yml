@@ -9,7 +9,7 @@ spec:
       # Mount the hostPath volume
       volumeMounts:
         - name: host-vol
-          mountPath: /usr/share/nginx/html
+          mountPath: /data
   # Define the hostPath volume
   volumes:
     - name: host-vol
