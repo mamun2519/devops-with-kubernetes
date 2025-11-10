@@ -101,8 +101,6 @@ spec:
 | `jobTemplate`              | Defines what the Job will do each time      |
 | `restartPolicy: OnFailure` | Only restarts if it fails                   |
 
----
-
 ### 🔎 Cron Syntax Quick Guide
 
 | Syntax        | Meaning               |
