@@ -170,20 +170,6 @@ To prevent this — attach a **PVC** to your WordPress Pod.
 Now all photos will be stored safely in `/mnt/data`,
 and they’ll stay even if the Pod is restarted ✅
 
----
-
-## 🧩 Assignment (Your Task)
-
-1️⃣ Create a **PersistentVolume (1Gi)**
-2️⃣ Create a **PersistentVolumeClaim (500Mi)**
-3️⃣ Create an **nginx-pod** that uses that PVC
-4️⃣ Run these commands to test:
-
-```bash
-kubectl exec -it nginx-pod -- touch /usr/share/nginx/html/test.txt
-kubectl delete pod nginx-pod
-```
-
 Then create a new Pod and check if `/mnt/data/test.txt` still exists.
 
 ---
