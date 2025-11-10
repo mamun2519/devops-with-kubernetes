@@ -65,8 +65,6 @@ spec:
 | `template`        | Defines how each Pod will look               |
 | Pod count         | One Pod runs on **every Node** automatically |
 
----
-
 ## 🔧 4️⃣ Check DaemonSet in Action
 
 First, check your Nodes:
