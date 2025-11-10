@@ -1,6 +1,4 @@
-# ⚙️ **Lesson 14: DaemonSet — Run One Pod per Node**
-
----
+# ⚙️ **Lesson 13: DaemonSet — Run One Pod per Node**
 
 ## 🎯 Goal of This Lesson
 
