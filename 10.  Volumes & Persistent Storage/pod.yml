@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata: 
+  name: persistent-vol-pod
+spec:
+  containers:
+    - name: persistent-vol-container
+      image: nginx
+      # Mount the PersistentVolumeClaim
+      volumeMounts:
+        - name: persistent-vol
+          mountPath: /usr/share/nginx/html
+  # Define the PersistentVolumeClaim volume
+  volumes:
+    - name: persistent-vol
+      persistentVolumeClaim:
+        claimName: mypvc
