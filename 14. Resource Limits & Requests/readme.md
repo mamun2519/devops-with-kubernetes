@@ -81,8 +81,6 @@ spec:
           memory: "512Mi"
 ```
 
----
-
 ## 🧩 Real-Life Example
 
 Think of an office with 10 employees:
