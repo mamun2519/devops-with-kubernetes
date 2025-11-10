@@ -131,11 +131,3 @@ kubectl top pod
 ```
 
 You will see how much resource your Pod is using.
-
----
-
-Well done Juboraj! 💪
-Next, we can learn **Lesson 17: Horizontal Pod Autoscaler (HPA)** —
-It automatically increases/decreases Pod numbers based on resource usage.
-
-👉 Do you want me to start **Lesson 17** now?
