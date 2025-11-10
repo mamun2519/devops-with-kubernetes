@@ -1,4 +1,4 @@
-**Lesson 16: Kubernetes Resource Limits & Requests** —
+**Lesson 14: Kubernetes Resource Limits & Requests** —
 
 # 🎯 Goal of This Lesson
 
