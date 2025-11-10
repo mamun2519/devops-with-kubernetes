@@ -6,9 +6,11 @@ spec:
   containers:
     - name: emtydir-vol-container
       image: nginx
+      # Mount the emptyDir volume
       volumeMounts:
         - name: emtydir-vol
           mountPath: /usr/share/nginx/html
+  # Define the emptyDir volume
   volumes:
     - name: emtydir-vol
       emptyDir: {}
