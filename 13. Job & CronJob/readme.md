@@ -18,8 +18,6 @@ You don’t want it to keep running forever like a Deployment.
 
 👉 That’s where **Job** is useful!
 
----
-
 ## 💡 2️⃣ What is a Job?
 
 🧩 A **Job** is a Kubernetes resource that runs one or more Pods **until the task is complete**.
