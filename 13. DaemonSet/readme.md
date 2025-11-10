@@ -33,8 +33,6 @@ You can’t be sure that **each Node has one Pod**.
 ✅ When a new Node joins the cluster — DaemonSet automatically adds a Pod there.
 🗑️ When a Node is removed — that Pod is also removed.
 
----
-
 ## 🔹 3️⃣ Example — Nginx DaemonSet
 
 ```yaml
