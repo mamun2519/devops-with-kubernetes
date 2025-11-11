@@ -76,8 +76,6 @@ Your cluster:
 
 You want your MySQL Pod to run **only on SSD Node** → Use **Node Affinity** ✅
 
----
-
 ## ⚙️ Pod Affinity & Pod Anti-Affinity
 
 These are for **Pod-to-Pod relationships** — not Node-based.
