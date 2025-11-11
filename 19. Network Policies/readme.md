@@ -25,8 +25,6 @@ Rules:
 
 ✅ Network Policy controls this **traffic**, allowing or blocking Pod communication.
 
----
-
 ## ⚙️ **What is a Network Policy?**
 
 - A Kubernetes resource to control **Ingress** and **Egress** traffic for Pods.
