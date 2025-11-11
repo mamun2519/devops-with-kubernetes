@@ -80,8 +80,6 @@ You want your MySQL Pod to run **only on SSD Node** → Use **Node Affinity** �
 
 These are for **Pod-to-Pod relationships** — not Node-based.
 
----
-
 ### 🧩 Pod Affinity — Pods Want to Stay Together
 
 You can make Pods run near other Pods for faster communication.
