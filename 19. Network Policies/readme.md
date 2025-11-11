@@ -7,8 +7,6 @@
 - Control **Ingress** (incoming) and **Egress** (outgoing) traffic
 - Learn with a live YAML example
 
----
-
 ## 🧠 **Simple Explanation**
 
 Imagine your cluster has many Pods:
