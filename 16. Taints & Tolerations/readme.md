@@ -10,8 +10,6 @@ After this lesson, you’ll understand 👇
 - Real-life examples
 - Practical YAML setup
 
----
-
 ## 🧠 Easy Understanding
 
 Imagine your cluster has 3 nodes 👇
