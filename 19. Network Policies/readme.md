@@ -1,6 +1,4 @@
-# 🌐 **Lesson 21: Kubernetes Network Policies**
-
----
+# 🌐 **Lesson 19: Kubernetes Network Policies**
 
 ## 🎯 **What You’ll Learn**
 
