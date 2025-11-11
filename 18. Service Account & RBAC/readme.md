@@ -138,8 +138,6 @@ because it’s using the `monitor-sa` service account which has that Role.
 | Namespace dashboards          | Role + RoleBinding                  |
 | API automation                | Custom ServiceAccount + RoleBinding |
 
----
-
 ## 🧠 **Simple Real-Life Example**
 
 Imagine a company with many teams.
