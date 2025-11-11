@@ -24,8 +24,6 @@ kubectl get serviceaccount
 
 You’ll see a default one named `default` inside every namespace.
 
----
-
 ## 🧩 **2️⃣ Create a Custom Service Account**
 
 Let’s create a Service Account for a monitoring Pod 👇
