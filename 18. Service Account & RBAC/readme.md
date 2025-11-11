@@ -146,8 +146,6 @@ Your **Service Account** = your **ID card**
 Your **Role** = your permissions (what tasks you can do)
 Your **RoleBinding** = the office saying “This person can do these tasks.”
 
----
-
 ## ✅ **Summary**
 
 | Concept                              | Meaning                                    |
