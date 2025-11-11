@@ -121,8 +121,6 @@ spec:
 ✅ This Pod can now call Kubernetes API to list Pods
 because it’s using the `monitor-sa` service account which has that Role.
 
----
-
 ## ⚖️ **6️⃣ Role vs ClusterRole**
 
 | Feature  | Role                 | ClusterRole                                            |
