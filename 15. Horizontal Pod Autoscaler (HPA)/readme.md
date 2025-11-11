@@ -11,8 +11,6 @@ After this lesson, you’ll learn 👇
 - How to scale Pods based on CPU usage
 - A real live example
 
----
-
 ## 🧠 Easy Understanding
 
 Imagine you have a website —
