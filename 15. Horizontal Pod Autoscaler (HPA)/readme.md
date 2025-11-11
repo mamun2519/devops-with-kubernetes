@@ -150,8 +150,6 @@ You don’t need to change anything —
 **Kubernetes auto-scales for you!**
 💡 This saves cost and improves performance.
 
----
-
 ## ✅ Summary
 
 | Concept            | Description                                   |
