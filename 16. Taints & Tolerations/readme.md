@@ -136,8 +136,6 @@ You want:
   kubectl taint nodes <node-name> key=value:NoSchedule-
   ```
 
----
-
 ## ✅ Summary
 
 | Concept        | Level  | Meaning                                 |
@@ -145,8 +143,6 @@ You want:
 | **Taint**      | Node   | Says “Don’t run specific Pods on me”    |
 | **Toleration** | Pod    | Says “I can handle this Node’s Taint”   |
 | **Effect**     | Action | NoSchedule, PreferNoSchedule, NoExecute |
-
----
 
 ## 🧩 Assignment
 
