@@ -113,19 +113,9 @@ Network Policy is like a **digital access card** for Pods — it tells who can g
 | **ingress / egress** | Rules to allow traffic                                               |
 | **Default Deny**     | Without policy → all open; with policy → only allowed traffic passes |
 
----
-
 ## 🧩 **Assignment**
 
 1️⃣ Create 2 Pods: `web` and `db`
 2️⃣ Apply **Ingress Network Policy** on `db` so only `web` Pod can reach it
 3️⃣ Apply **Egress Network Policy** on `web` so it can only talk to `db` Pod
 4️⃣ Test using `kubectl exec` to verify connection
-
----
-
-Juboraj, next we will learn:
-**Lesson 22: Helm Basics — Package Management in Kubernetes** 🎁
-With Helm, you can deploy apps like a pro!
-
-👉 Ready to start Lesson 22?
