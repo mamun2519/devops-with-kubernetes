@@ -30,8 +30,6 @@ Rules:
 - A Kubernetes resource to control **Ingress** and **Egress** traffic for Pods.
 - It’s like a **Pod-level firewall** — not cluster-wide.
 
----
-
 ## 🧩 **Key Points**
 
 | Field                      | Meaning                                  |
@@ -39,8 +37,6 @@ Rules:
 | **podSelector**            | Select which Pods this policy applies to |
 | **policyTypes**            | Ingress / Egress / Both                  |
 | **ingress / egress rules** | Rules to allow specific traffic          |
-
----
 
 ## 🔧 **Example 1️⃣: Ingress Policy**
 
@@ -73,8 +69,6 @@ spec:
 - Select Pods with label `app=db`
 - Only Pods with label `app=web` can access TCP port 3306
 
----
-
 ## 🔧 **Example 2️⃣: Egress Policy**
 
 Allow Web Pod to talk only to Database Pod:
@@ -100,8 +94,6 @@ spec:
           port: 3306
 ```
 
----
-
 ## 🔍 **Real-Life Analogy**
 
 Think of an office:
@@ -111,8 +103,6 @@ Think of an office:
 - Visitors → cannot enter
 
 Network Policy is like a **digital access card** for Pods — it tells who can go where.
-
----
 
 ## 📊 **Summary Table**
 
