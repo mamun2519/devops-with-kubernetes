@@ -138,8 +138,6 @@ while true; do wget -q -O- http://hpa-demo; done
 
 This increases CPU usage → and HPA automatically adds more Pods 😎
 
----
-
 ## 🧩 Real-Life Example
 
 Imagine you have an **e-commerce app**:
