@@ -1,8 +1,3 @@
-Awesome Juboraj! 🚀
-Now you’re moving into another **advanced but very practical** Kubernetes topic —
-
----
-
 # ⚙️ **Lesson 18: Taints & Tolerations — Control Which Pods Run on Which Nodes**
 
 ---
