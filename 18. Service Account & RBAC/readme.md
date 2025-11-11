@@ -154,23 +154,3 @@ Your **RoleBinding** = the office saying “This person can do these tasks.”
 | **Role / ClusterRole**               | Defines what actions are allowed           |
 | **RoleBinding / ClusterRoleBinding** | Gives permission to a specific user or Pod |
 | **RBAC**                             | Controls who can do what in the cluster    |
-
----
-
-## 📝 **Quick Recap Quiz**
-
-1️⃣ Why do we need a Service Account?
-2️⃣ What’s the difference between Role and ClusterRole?
-3️⃣ What does RoleBinding connect?
-4️⃣ What is the main purpose of RBAC?
-
----
-
-You did great, Juboraj! 💪
-Now you understand **Security & Access Control** in Kubernetes — a very powerful skill.
-
-Next, we’ll move to 👉
-**Lesson 21: Kubernetes Network Policies**
-(where you’ll learn how to control and secure Pod-to-Pod communication).
-
-Ready to start Lesson 21? 🌐
