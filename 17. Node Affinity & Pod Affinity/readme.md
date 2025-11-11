@@ -174,16 +174,3 @@ kubectl label nodes node1 role=db
 2️⃣ Create a Pod that runs only on `role=db` Node using **Node Affinity**.
 3️⃣ Create a Web Pod that stays near the DB Pod using **Pod Affinity**.
 4️⃣ Create a Web Deployment with 3 replicas that must run on **different Nodes** using **Pod Anti-Affinity**.
-
----
-
-## ✅ You Did It!
-
-Awesome Juboraj! 🔥
-Now you understand how Kubernetes **schedules and controls Pods smartly.**
-
-Next, we’ll move to the **Security & Monitoring Phase** —
-starting with 👇
-**Lesson 20: Service Account & RBAC (Role-Based Access Control)**
-
-👉 Shall we start Lesson 20?
