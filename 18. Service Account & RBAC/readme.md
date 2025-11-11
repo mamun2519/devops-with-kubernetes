@@ -76,8 +76,6 @@ rules:
     verbs: ["get", "list", "watch"]
 ```
 
----
-
 ### 🧩 Step 2: Create a RoleBinding
 
 ```yaml
