@@ -7,8 +7,6 @@
 - Difference between **Role**, **ClusterRole**, **RoleBinding**, and **ClusterRoleBinding**
 - A complete example step by step
 
----
-
 ## 🧩 **1️⃣ What is a Service Account?**
 
 In Kubernetes, every Pod automatically gets a **Service Account**.
