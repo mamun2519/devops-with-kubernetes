@@ -36,8 +36,6 @@ Let’s say you want to label a Node that has SSD disk:
 kubectl label nodes node1 disktype=ssd
 ```
 
----
-
 ### 🧩 Step 2️⃣: Add Node Affinity in Pod YAML
 
 ```yaml
