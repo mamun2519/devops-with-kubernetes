@@ -159,11 +159,3 @@ kubectl taint nodes node1 special=true:NoSchedule
 ```bash
 kubectl get pods -o wide
 ```
-
----
-
-Excellent work Juboraj! 💪
-Next, we’ll learn **Lesson 19: Node Affinity & Pod Affinity/Anti-Affinity** —
-where you’ll control **which Pods should or shouldn’t run together** or **on which Node**.
-
-👉 Shall I start Lesson 19 now?
