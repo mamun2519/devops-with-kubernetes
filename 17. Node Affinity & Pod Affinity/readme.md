@@ -1,7 +1,5 @@
 # 🎯 **Lesson 17: Node Affinity & Pod Affinity / Anti-Affinity**
 
----
-
 ## 🧠 What You’ll Learn
 
 - What is Node Affinity and Pod Affinity
