@@ -106,8 +106,6 @@ spec:
 
 👉 Only this Pod can now run on the tainted DB Node.
 
----
-
 ## 🧩 Real-Life Example
 
 Let’s say your company has 3 nodes:
@@ -123,8 +121,6 @@ You want:
 - Normal Pods → on Node 1
 
 ➡️ You can do this easily with **Taints and Tolerations** ✅
-
----
 
 ## 📊 Useful Commands
 
