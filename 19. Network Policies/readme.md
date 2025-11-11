@@ -1,7 +1,3 @@
-Here’s your **Lesson 21: Kubernetes Network Policies** in simple English, ready as a `README.md` file:
-
----
-
 # 🌐 **Lesson 21: Kubernetes Network Policies**
 
 ---
