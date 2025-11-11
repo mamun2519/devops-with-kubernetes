@@ -175,11 +175,3 @@ kubectl get hpa
 ```
 
 4️⃣ Try a load test to watch Pods automatically scale up/down.
-
----
-
-Great job again Juboraj! 💪
-Next, we’ll learn **Lesson 18: Kubernetes Taints & Tolerations** —
-It controls **which Pod runs on which Node** (for better scheduling).
-
-👉 Shall I start **Lesson 18** now?
