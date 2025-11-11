@@ -159,8 +159,6 @@ You don’t need to change anything —
 | **Min/Max Pods**   | Sets allowed Pod range                        |
 | **Target CPU %**   | Decides when scaling happens                  |
 
----
-
 ## 🧩 Assignment
 
 1️⃣ Create a new Deployment (use `nginx`).
