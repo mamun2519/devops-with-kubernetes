@@ -26,8 +26,6 @@ your **Database Pod may go to the GPU Node**, which is wrong 😅
 👉 That’s why we use **Taints and Tolerations** —
 to tell Kubernetes **which Node should accept which Pod**.
 
----
-
 ## ⚙️ Definition
 
 | Concept                    | Meaning                                          |
