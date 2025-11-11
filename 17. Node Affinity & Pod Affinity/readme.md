@@ -8,8 +8,6 @@
 - Real-life examples
 - Practical YAML examples
 
----
-
 ## ⚙️ Why We Need This
 
 Normally, Kubernetes automatically decides which **Pod** will run on which **Node**.
