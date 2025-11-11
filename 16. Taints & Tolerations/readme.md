@@ -1,4 +1,4 @@
-# ⚙️ **Lesson 18: Taints & Tolerations — Control Which Pods Run on Which Nodes**
+# ⚙️ **Lesson 16: Taints & Tolerations — Control Which Pods Run on Which Nodes**
 
 ---
 
