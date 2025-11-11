@@ -147,8 +147,6 @@ spec:
 
 👉 Kubernetes will schedule each Pod on **different Nodes**.
 
----
-
 ## 🔍 Summary Table
 
 | Concept               | Use                            | Example                    |
