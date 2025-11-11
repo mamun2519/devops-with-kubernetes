@@ -24,8 +24,6 @@ But if you run only **2 Pods**, your site may crash at night!
 
 That’s exactly what **Horizontal Pod Autoscaler (HPA)** does ✅
 
----
-
 ## ⚙️ What Does HPA Do?
 
 **HPA** watches your Deployment or ReplicaSet.
