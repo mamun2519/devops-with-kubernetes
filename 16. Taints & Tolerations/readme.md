@@ -73,8 +73,6 @@ spec:
 | **PreferNoSchedule** | Kubernetes **tries to avoid** scheduling Pod there (soft). |
 | **NoExecute**        | If Pod already exists there, Kubernetes **removes it**.    |
 
----
-
 ## 🔧 Practical Example: Protect Database Node
 
 Let’s protect your **Database Node** so only DB Pods can run there.
