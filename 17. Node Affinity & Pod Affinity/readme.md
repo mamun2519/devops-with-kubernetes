@@ -28,8 +28,6 @@ Node Affinity lets you tell Kubernetes:
 
 You do this using **labels** on Nodes and **rules** inside the Pod.
 
----
-
 ### 🧩 Step 1️⃣: Add Label to Node
 
 Let’s say you want to label a Node that has SSD disk:
