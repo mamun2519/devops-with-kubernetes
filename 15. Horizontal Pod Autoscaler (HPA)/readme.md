@@ -47,8 +47,6 @@ CPU usage ↑ → HPA checks → add pods
 CPU usage ↓ → HPA checks → remove pods
 ```
 
----
-
 ## 🔧 Example: Create an HPA
 
 ### Step 0️⃣ — Make sure Metrics Server is installed
@@ -64,8 +62,6 @@ If not found, install it:
 ```bash
 kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
 ```
-
----
 
 ### Step 1️⃣ — Create a Deployment
 
