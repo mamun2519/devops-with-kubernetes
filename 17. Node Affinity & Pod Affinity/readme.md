@@ -111,8 +111,6 @@ spec:
 
 👉 This Web Pod will run **close to** any Pod labeled `app=db`.
 
----
-
 ### 🧩 Pod Anti-Affinity — Pods Stay Separate
 
 If you want Pods to run on **different Nodes** (for high availability):
