@@ -163,8 +163,6 @@ spec:
 | Web + DB together              | Pod Affinity      |
 | Web replicas on separate Nodes | Pod Anti-Affinity |
 
----
-
 ## 🧠 Assignment
 
 1️⃣ Label one Node as `role=db`
