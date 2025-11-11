@@ -1,7 +1,5 @@
 # 🔐 **Lesson 20: Service Account & RBAC (Role-Based Access Control)**
 
----
-
 ## 🎯 **What You’ll Learn**
 
 - What is a **Service Account**
