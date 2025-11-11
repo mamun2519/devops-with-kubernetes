@@ -67,8 +67,6 @@ spec:
 | **requiredDuringSchedulingIgnoredDuringExecution**  | Must match (hard rule)               |
 | **preferredDuringSchedulingIgnoredDuringExecution** | Try to match if possible (soft rule) |
 
----
-
 ## 💡 Real-Life Example
 
 Your cluster:
