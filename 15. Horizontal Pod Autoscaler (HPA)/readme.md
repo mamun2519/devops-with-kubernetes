@@ -2,8 +2,6 @@
 
 > In simple words — Kubernetes can **automatically increase or decrease the number of Pods** based on load.
 
----
-
 ## 🎯 Goal of This Lesson
 
 After this lesson, you’ll learn 👇
