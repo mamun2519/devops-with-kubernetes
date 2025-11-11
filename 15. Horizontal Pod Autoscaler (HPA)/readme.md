@@ -122,8 +122,6 @@ hpa-demo    Deployment/hpa-demo    20%/50%   1         5         1          2m
 
 When CPU usage goes up → HPA increases Pods automatically.
 
----
-
 ### Step 4️⃣ — Test the Scaling (Optional)
 
 Run a load generator Pod:
