@@ -44,8 +44,6 @@ kubectl apply -f monitor-sa.yaml
 
 Now `monitor-sa` is ready to be used by any Pod.
 
----
-
 ## 🧩 **3️⃣ What is RBAC (Role-Based Access Control)?**
 
 RBAC means controlling **who can do what** in Kubernetes.
