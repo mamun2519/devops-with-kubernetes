@@ -60,8 +60,6 @@ spec:
 
 👉 This Pod will **only** run on nodes with the label `disktype=ssd`.
 
----
-
 ### ⚙️ Types of Node Affinity
 
 | Type                                                | Meaning                              |
