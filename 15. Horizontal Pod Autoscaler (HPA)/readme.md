@@ -97,8 +97,6 @@ Then apply it 👇
 kubectl apply -f hpa-deploy.yaml
 ```
 
----
-
 ### Step 2️⃣ — Create the HPA
 
 ```bash
