@@ -33,8 +33,6 @@ to tell Kubernetes **which Node should accept which Pod**.
 | **Taint (Node level)**     | Node says “I don’t want some Pods to run on me.” |
 | **Toleration (Pod level)** | Pod says “I can tolerate that Taint.”            |
 
----
-
 ## 🧩 Simple Example
 
 You add a taint to Node3 👇
@@ -46,8 +44,6 @@ kubectl taint nodes node3 key=value:NoSchedule
 This means:
 
 > Node3 will not take any Pod **unless that Pod tolerates this taint.**
-
----
 
 ## ⚙️ Create a Pod That Can Tolerate
 
@@ -68,8 +64,6 @@ spec:
 ```
 
 ✅ This Pod **can run on Node3** because it has the matching toleration.
-
----
 
 ## 🎯 Different Types of Effects
 
