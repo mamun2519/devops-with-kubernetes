@@ -58,8 +58,6 @@ There are 4 main RBAC components 👇
 | **RoleBinding**        | Connects a Role to a user or service account     |
 | **ClusterRoleBinding** | Connects a ClusterRole to a user/service account |
 
----
-
 ## 🧱 **4️⃣ Example: Role + RoleBinding**
 
 Let’s give `monitor-sa` permission to **list Pods** only.
