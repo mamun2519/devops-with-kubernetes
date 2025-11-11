@@ -107,8 +107,6 @@ kubectl autoscale deployment hpa-demo --cpu-percent=50 --min=1 --max=5
 🔹 `--min=1` → Minimum 1 Pod
 🔹 `--max=5` → Maximum 5 Pods
 
----
-
 ### Step 3️⃣ — Check the Status
 
 ```bash
