@@ -34,8 +34,6 @@ It checks CPU (or memory) usage and changes the number of Pods automatically.
 - If CPU usage > 70% → add more Pods
 - If CPU usage < 40% → remove some Pods
 
----
-
 ## ⚙️ How HPA Works
 
 1. **Metrics Server** collects CPU and memory usage.
