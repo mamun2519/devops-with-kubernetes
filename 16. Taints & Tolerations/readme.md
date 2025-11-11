@@ -1,7 +1,5 @@
 # ⚙️ **Lesson 16: Taints & Tolerations — Control Which Pods Run on Which Nodes**
 
----
-
 ## 🎯 Goal of This Lesson
 
 After this lesson, you’ll understand 👇
