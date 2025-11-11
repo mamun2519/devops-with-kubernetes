@@ -20,8 +20,6 @@ But sometimes you need more control — for example:
 | Web Pod should run near Database Pod     | Pod Affinity      |
 | Two Pods should not run on same Node     | Pod Anti-Affinity |
 
----
-
 ## ⚙️ Node Affinity — Control Which Node Pod Will Run On
 
 Node Affinity lets you tell Kubernetes:
