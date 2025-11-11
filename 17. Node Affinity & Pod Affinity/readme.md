@@ -155,8 +155,6 @@ spec:
 | **Pod Affinity**      | Keep Pods close together       | Web Pod near DB Pod        |
 | **Pod Anti-Affinity** | Keep Pods apart                | Web Pods on separate Nodes |
 
----
-
 ## 🧩 Real-Life Recap
 
 | Scenario                       | Solution          |
