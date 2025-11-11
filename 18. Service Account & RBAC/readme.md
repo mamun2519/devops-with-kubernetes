@@ -103,8 +103,6 @@ kubectl apply -f rolebinding.yaml
 
 ✅ Now `monitor-sa` can only **read Pods** in the default namespace.
 
----
-
 ## 🧩 **5️⃣ Attach Service Account to a Pod**
 
 ```yaml
