@@ -107,8 +107,6 @@ helm upgrade myapp ./mychart
 helm uninstall myapp
 ```
 
----
-
 ## 🧩 **Example: Deploy Nginx using Helm**
 
 ```bash
