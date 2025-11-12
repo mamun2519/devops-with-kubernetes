@@ -35,8 +35,6 @@ helm install myapp ./mychart
 
 Helm will automatically create and deploy all the YAML files ✅
 
----
-
 ## 🧩 **3 Main Concepts of Helm**
 
 | Concept        | Meaning                                             |
