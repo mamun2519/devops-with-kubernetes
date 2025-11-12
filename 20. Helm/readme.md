@@ -81,8 +81,6 @@ mychart/
 └── charts/             # Dependencies (other charts)
 ```
 
----
-
 ## 📦 **Useful Helm Commands**
 
 ### 1️⃣ Install a chart:
