@@ -1,8 +1,4 @@
-Here’s your **Lesson 22: Helm Basics — Package Management in Kubernetes** rewritten in **simple English** for your `README.md` file 👇
-
----
-
-# 🚀 **Lesson 22: Helm Basics — Package Management in Kubernetes**
+# 🚀 **Lesson 20: Helm Basics — Package Management in Kubernetes**
 
 ---
 
