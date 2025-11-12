@@ -11,4 +11,4 @@ spec:
   - from:
     - namespaceSelector:
         matchLabels:
-          allowed-namespace: "true"
+          app: web
