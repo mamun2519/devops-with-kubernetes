@@ -124,16 +124,6 @@ You can order each item separately, but it takes time.
 Helm is like a **combo meal** 🍱 —
 it includes App + Config + Service + Ingress all together!
 
-## 🧩 **Assignment**
-
-1️⃣ Install Helm in your Kubernetes cluster
-2️⃣ Deploy **Nginx** using Helm
-3️⃣ Check releases using `helm list`
-4️⃣ Try to upgrade the app by changing image version
-5️⃣ Uninstall it using `helm uninstall`
-
----
-
 ## 🏁 **Summary**
 
 | Concept         | Meaning                              |
