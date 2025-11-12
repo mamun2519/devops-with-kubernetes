@@ -3,3 +3,12 @@ kind: NetworkPolicy
 metadata:
   name: allow-ingress-from-namespace
   # namespace: your-namespace
+spec:
+  podSelector: {}
+  policyTypes:
+  - Ingress
+  ingress:
+  - from:
+    - namespaceSelector:
+        matchLabels:
+          allowed-namespace: "true"
