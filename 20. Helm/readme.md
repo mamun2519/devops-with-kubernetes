@@ -117,8 +117,6 @@ helm install my-nginx bitnami/nginx
 ✅ Helm will automatically download and deploy everything —
 Deployment, Service, ConfigMap — all done together!
 
----
-
 ## 🧠 **Real-Life Example**
 
 Imagine you order food on **Foodpanda**.
