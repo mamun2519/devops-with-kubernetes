@@ -124,8 +124,6 @@ You can order each item separately, but it takes time.
 Helm is like a **combo meal** 🍱 —
 it includes App + Config + Service + Ingress all together!
 
----
-
 ## 🧩 **Assignment**
 
 1️⃣ Install Helm in your Kubernetes cluster
