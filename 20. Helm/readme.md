@@ -8,16 +8,12 @@
 - How to create your own chart
 - Real-life example
 
----
-
 ## 🧠 **What is Helm (Simple Explanation)**
 
 Helm is a **package manager for Kubernetes**.
 
 👉 Like we use **apt** or **yum** in Linux to install software,
 👉 We use **Helm** to install apps in Kubernetes easily.
-
----
 
 ## 💬 **Example to Understand**
 
