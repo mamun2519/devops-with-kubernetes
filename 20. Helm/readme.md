@@ -134,15 +134,3 @@ it includes App + Config + Service + Ingress all together!
 | **Repository**  | Chart storage                        |
 | **values.yaml** | File for configurable settings       |
 | **Commands**    | install / list / upgrade / uninstall |
-
----
-
-✅ Now you can **deploy production-grade apps with just one command**!
-This is the **industry standard** way of managing Kubernetes apps 🎯
-
----
-
-Next:
-👉 **Lesson 23: Kubernetes Monitoring — Prometheus & Grafana (Real-Time Cluster Observation)**
-
-Ready to start, Juboraj? 🔥
