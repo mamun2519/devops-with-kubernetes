@@ -1,7 +1,5 @@
 # 🚀 **Lesson 20: Helm Basics — Package Management in Kubernetes**
 
----
-
 ## 🎯 **What You’ll Learn**
 
 - What is Helm and why it’s useful
