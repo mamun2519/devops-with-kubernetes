@@ -9,4 +9,9 @@ spec:
       app: lms-backend-app
   template:
     metadata:
-      app: lms-backend-app
+      labels:
+        app: lms-backend-app
+    spec:
+      containers:
+        - name: lms-backend-app
+          image: docker pull mamun12/lms-backend:latest
