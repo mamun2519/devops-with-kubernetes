@@ -5,3 +5,7 @@ metadata:
 spec:
   selector:
     app: lms-backend-app
+  ports:
+    - port: 5000
+      targetPort: 5000
+  type: LoadBalancer
