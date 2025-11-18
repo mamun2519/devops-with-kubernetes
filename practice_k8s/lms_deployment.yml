@@ -7,4 +7,6 @@ spec:
   selector:
     matchLabels:
       app: lms-backend-app
-    
+  template:
+    metadata:
+      app: lms-backend-app
