@@ -5,3 +5,5 @@ metadata:
 spec:
   selector:
     app: lms-backend-app
+  ports:
+    - port: 5000
