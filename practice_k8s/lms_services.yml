@@ -3,3 +3,5 @@ kind: Service
 metadata:
   name: lms-loadbalancer
 spec:
+  selector:
+    app: lms-backend-app
