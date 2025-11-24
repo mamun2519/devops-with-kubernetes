@@ -9,5 +9,7 @@ spec:
       app: lms-backend-app
   template:
     metadata:
-
+      labels:
+        app: lms-backend-app
+    spec:
    
