@@ -9,7 +9,5 @@ data:
   PORT: "5000"
   NODE_ENV: development
   BCRYPT_SALT_ROUNDS: "10"
-  JWT_SECRET: secret
-  JWT_EXPIRES_IN: 1d
-  JWT_REFRESH_SECRET: refreshSecret
+ 
 
