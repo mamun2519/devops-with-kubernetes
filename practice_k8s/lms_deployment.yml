@@ -17,3 +17,4 @@ spec:
           image: mamun12/lms-backend:latest
           ports:
             - containerPort: 3000
+          env
