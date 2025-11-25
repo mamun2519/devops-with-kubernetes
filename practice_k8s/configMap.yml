@@ -8,3 +8,7 @@ data:
   DB_URL: mongodb+srv://mamun:mamun123@mlm-cluster.dsg3fod.mongodb.net/?retryWrites=true&w=majority&appName=MLM-Cluster
   PORT: "5000"
   NODE_ENV: development
+  CLOUDINARY_CLOUD_NAME: "dolys36wm"
+  CLOUDINARY_API_KEY: "372395973228638"
+  CLOUDINARY_API_SECRET: "TVo7BxXM5rxCkSawMsG9Rdq4D5w"
+
