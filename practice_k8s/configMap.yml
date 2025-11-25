@@ -6,3 +6,4 @@ data:
   DB_USER_NAME: mamun
   DB_USER_PASSWORD: mamun123
   DB_URL: mongodb+srv://mamun:mamun123@mlm-cluster.dsg3fod.mongodb.net/?retryWrites=true&w=majority&appName=MLM-Cluster
+  PORT: 5000
