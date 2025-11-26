@@ -15,7 +15,7 @@ backend-service → ClusterIP
 
 mongodb-service → ClusterIP
 
-backend → env variable দিয়ে MongoDB URI inject করো
+backend → env variable  MongoDB URI inject 
 
 
 
