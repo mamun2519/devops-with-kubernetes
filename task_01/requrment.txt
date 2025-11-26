@@ -7,7 +7,7 @@ Requirements
 
 What to do
 
-3টি service বানাও:
+create 3th service:
 
 frontend-service → NodePort
 
