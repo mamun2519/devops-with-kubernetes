@@ -19,7 +19,8 @@ spec:
         - containerPort: 3000
         env:
          - name: NEXT_PUBLIC_API_URL
-           value: "http://lms-backend-service:5000/api/v1/"
+          #  value: "http://lms-backend-service:5000/api/v1/"
+           value: "http://192.168.49.2:32000/api/v1/"
 
 ---
 apiVersion: v1
