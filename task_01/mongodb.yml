@@ -29,9 +29,6 @@ spec:
       containers:
       - name: mongodb
         image: mongo:8.2.2
-        resources:
-          limits:
-            memory: "128Mi"
-            cpu: "500m"
         ports:
-        - containerPort: <Port>
+        - containerPort: 27017
+        volumeMounts:
