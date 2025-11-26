@@ -17,7 +17,7 @@ mongodb-service → ClusterIP
 
 backend → env variable দিয়ে MongoDB URI inject করো
 
-সব YAML file আলাদা folder এ রাখো:
+
 
 k8s/
   frontend.yaml
