@@ -16,7 +16,7 @@ spec:
       - name: lms-backend-container
         image: mamun12/lms-backend:latest
         ports:
-        - containerPort: 8080
+        - containerPort: 5000
         envFrom:
         - configMapRef:
             name: lms-backend-config
