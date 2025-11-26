@@ -38,3 +38,4 @@ spec:
       - name: lms-mongo-storage
         persistentVolumeClaim:
           claimName: lms-pvc
+---
