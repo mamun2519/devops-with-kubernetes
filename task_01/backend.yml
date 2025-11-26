@@ -1,0 +1,10 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lms-backend
+  namespace: lms-app-namespace
+spec:
+  selector:
+    matchLabels:
+      app: lms-backend
+  template:
