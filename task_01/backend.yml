@@ -17,7 +17,6 @@ spec:
         image: your-backend-image:latest
         ports:
         - containerPort: 8080
-        env:
-         contFrom:
-         - configMapRef:
-             name: lms-backend-config
+        envFrom:
+        - configMapRef:
+            name: lms-backend-config
