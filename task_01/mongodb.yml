@@ -32,3 +32,9 @@ spec:
         ports:
         - containerPort: 27017
         volumeMounts:
+        - mountPath: /data/db
+          name: lms-mongo-storage
+      volumes:
+      - name: lms-mongo-storage
+        persistentVolumeClaim:
+          claimName: lms-pvc
