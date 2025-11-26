@@ -7,4 +7,16 @@ spec:
   selector:
     matchLabels:
       app: lms-backend
-  template:
+  template: 
+    metadata:
+      labels:
+        app: lms-backend
+    spec:
+      containers:
+      - name: lms-backend-container
+        image: your-backend-image:latest
+        ports:
+        - containerPort: 8080
+        env:
+        - name: MONGODB_URI
+          value: mongodb://lms-mongodb-service:27017/your-database-name
