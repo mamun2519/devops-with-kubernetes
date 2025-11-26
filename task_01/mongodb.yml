@@ -20,15 +20,15 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app: myapp
+      app: mongodb
   template:
     metadata:
       labels:
-        app: myapp
+        app: mongodb
     spec:
       containers:
-      - name: myapp
-        image: <Image>
+      - name: mongodb
+        image: mongo:8.2.2
         resources:
           limits:
             memory: "128Mi"
