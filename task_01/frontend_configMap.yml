@@ -4,4 +4,4 @@ metadata:
   name: lms-frontend-config
   namespace: lms-app-namespace
 data:
-  key: value
+  NEXT_PUBLIC_API_URL: 
