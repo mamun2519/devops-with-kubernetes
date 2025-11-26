@@ -1,0 +1,29 @@
+📝 Task 1 — Create a Full Multi-Container App Deployment
+Requirements
+
+✔ Backend (Node.js / Python / Go — anything you know)
+✔ Frontend (React / HTML static)
+✔ MongoDB (StatefulSet not required yet — simple Deployment+PVC)
+
+What to do
+
+3টি service বানাও:
+
+frontend-service → NodePort
+
+backend-service → ClusterIP
+
+mongodb-service → ClusterIP
+
+backend → env variable দিয়ে MongoDB URI inject করো
+
+সব YAML file আলাদা folder এ রাখো:
+
+k8s/
+  frontend.yaml
+  backend.yaml
+  mongodb.yaml
+
+Objective
+
+Complete 3-tier application's full deployment + connectivity test.
