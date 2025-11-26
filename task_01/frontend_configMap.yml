@@ -1,6 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: myapp
+  name: lms-frontend-config
+  namespace: lms-app-namespace
 data:
   key: value
