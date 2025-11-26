@@ -17,3 +17,6 @@ spec:
         image: mamun12/lms-frontend:latest
         ports:
         - containerPort: 3000
+        env:
+         - name: NEXT_PUBLIC_API_URL
+           value: "http://lms-backend-service:5000"

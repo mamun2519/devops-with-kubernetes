@@ -4,4 +4,4 @@ metadata:
   name: lms-frontend-config
   namespace: lms-app-namespace
 data:
-  NEXT_PUBLIC_API_URL: 
+  NEXT_PUBLIC_API_URL: http://lms-backend-service:5000
